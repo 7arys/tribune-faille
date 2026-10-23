@@ -1,0 +1,121 @@
+# Tribune de la Faille : récupère les actus LoL esport toutes les 30 minutes
+# et les enregistre dans news.json, que l'app lit à chaque ouverture.
+name: Actus
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actus
+  cancel-in-progress: false
+
+jobs:
+  actus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Chercher les actus
+        run: |
+          python3 - <<'PY'
+          import json, re, sys, urllib.parse, urllib.request, email.utils, datetime as dt, xml.etree.ElementTree as ET
+
+          # Recherches Google Actualités (presse française, 7 derniers jours)
+          QUERIES = [
+              '"League of Legends" (Worlds OR "phase suisse" OR "Play-In" OR "Swiss Stage")',
+              'LoL (LEC OR "Karmine Corp" OR "G2 Esports" OR "Movistar KOI" OR Fnatic OR Vitality)',
+              'LoL esport (LCK OR LCS OR T1 OR "Gen.G" OR "Team Liquid")',
+          ]
+          # Un article est rangé dans une compétition si son titre contient l'un de ces mots
+          TAGS = {
+              'worlds': r"\bWorlds\b|[Cc]hampionnats? du monde|World Championship|[Pp]hase suisse|Swiss [Ss]tage|\bPlay-?[Ii]ns?\b|Summoner'?s Cup",
+              'lec': r"\bLEC\b|\bG2\b|Karmine|\bKCorp\b|\bKC\b|\bKOI\b|Fnatic|Vitality|Heretics|SK Gaming|GiantX|Team BDS|Natus Vincere|\bNAVI\b|Shifters",
+              'lck': r"\bLCK\b|\bT1\b|Faker|Gen\.?G\b|Hanwha|\bHLE\b|Dplus|\bDK\b|KT Rolster|\bDRX\b|Nongshim|BNK",
+              'lcs': r"\bLCS\b|Team Liquid|Cloud9|\bC9\b|FlyQuest|\bLYON\b|Shopify|100 Thieves|Dignitas",
+          }
+          MAX_AGE_DAYS = 10
+          MAX_ITEMS = 40
+
+
+          def fetch(query):
+              url = 'https://news.google.com/rss/search?' + urllib.parse.urlencode(
+                  {'q': query + ' when:7d', 'hl': 'fr', 'gl': 'FR', 'ceid': 'FR:fr'})
+              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; TribuneDeLaFaille/1.0)'})
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return ET.fromstring(r.read())
+
+
+          def collect(fetch=fetch, now=None):
+              now = now or dt.datetime.now(dt.timezone.utc)
+              items, seen = [], set()
+              for q in QUERIES:
+                  try:
+                      root = fetch(q)
+                  except Exception as e:
+                      print('Recherche impossible :', q, '->', e)
+                      continue
+                  for it in root.iter('item'):
+                      title = (it.findtext('title') or '').strip()
+                      link = (it.findtext('link') or '').strip()
+                      src_el = it.find('source')
+                      src = (src_el.text or '').strip() if src_el is not None else ''
+                      if src and title.endswith(' - ' + src):
+                          title = title[: -len(' - ' + src)].strip()
+                      try:
+                          d = email.utils.parsedate_to_datetime(it.findtext('pubDate') or '')
+                      except Exception:
+                          continue
+                      if d.tzinfo is None:
+                          d = d.replace(tzinfo=dt.timezone.utc)
+                      if (now - d).days > MAX_AGE_DAYS:
+                          continue
+                      key = re.sub(r'[^a-z0-9]', '', title.lower())[:80]
+                      if not title or not link or key in seen:
+                          continue
+                      leagues = [k for k, rx in TAGS.items() if re.search(rx, title)]
+                      if not leagues:
+                          continue
+                      seen.add(key)
+                      items.append({'t': title, 'url': link, 'src': src or 'Presse',
+                                    'd': d.astimezone(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+                                    'leagues': leagues})
+              items.sort(key=lambda x: x['d'], reverse=True)
+              return items[:MAX_ITEMS]
+
+
+          def main(path='news.json'):
+              items = collect()
+              if not items:
+                  print('Aucune actu récupérée, fichier inchangé.')
+                  return
+              try:
+                  with open(path, encoding='utf-8') as f:
+                      old = json.load(f).get('items', [])
+              except Exception:
+                  old = []
+              if [i['url'] for i in old] == [i['url'] for i in items]:
+                  print('Rien de nouveau.')
+                  return
+              now = dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+              with open(path, 'w', encoding='utf-8') as f:
+                  json.dump({'generated': now, 'items': items}, f, ensure_ascii=False, indent=1)
+              print(len(items), 'actus enregistrées.')
+
+
+          if __name__ == '__main__':
+              main()
+          PY
+
+      - name: Publier si nouveau
+        run: |
+          [ -f news.json ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if git diff --cached --quiet; then echo "Rien de nouveau"; else git commit -m "Actus mises à jour" && git push; fi

@@ -169,6 +169,8 @@ main{display:flex;flex-direction:column;gap:22px;padding-top:20px}
   color:var(--gold-pale);padding:11px 16px;border:1px solid var(--gold);background:var(--gold-veil);align-self:flex-start;
   clip-path:polygon(8px 0,100% 0,100% calc(100% - 8px),calc(100% - 8px) 100%,0 100%,0 8px)}
 .btn:hover{background:rgba(201,170,107,.22)}
+.btn.sm{flex:none;align-self:flex-end;padding:9px 12px;font-size:13px}
+.btn:disabled{opacity:.6;cursor:progress}
 
 /* ---------- Parcours ---------- */
 .path{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));position:relative;padding-top:6px}
@@ -290,6 +292,7 @@ table.rank{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums
 .nav button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;color:var(--faint);
   font:600 11px/1 var(--f-ui);letter-spacing:.1em;text-transform:uppercase;position:relative}
 .nav button svg{width:22px;height:22px}
+@media (max-width:420px){.nav button{letter-spacing:.04em;font-size:10.5px}}
 .nav button svg *{fill:none;stroke:currentColor;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round}
 .nav button[aria-current="page"]{color:var(--gold-pale)}
 .nav button[aria-current="page"] svg *{stroke:var(--gold)}
@@ -351,6 +354,9 @@ const SNAPSHOT_AT = '2026-10-23T08:30:00+02:00';
 const API_BASE = 'https://esports-api.lolesports.com/persisted/gw';
 const API_KEY = '0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8x3x3';
 const REFRESH_MS = 90000;
+/* Fichier d'actus mis à jour toutes les 30 min par la tâche GitHub (.github/workflows/actus.yml). */
+const NEWS_URL = 'news.json';
+const NEWS_LABELS = {lec:'LEC', worlds:'Worlds', lck:'LCK', lcs:'LCS'};
 
 /* ================= Données de référence (instantané du 19 oct. 2026) ================= */
 const TEAMS = {
@@ -472,8 +478,12 @@ const state = {
   leagueIds: null,
   liveData: {},
   loading: false,
-  updatedAt: null
+  updatedAt: null,
+  refreshing: false,
+  lastRefresh: 0,
+  timer: null
 };
+const newsState = {live: false, checkedAt: null};
 
 /* ================= Outils ================= */
 const $ = s => document.querySelector(s);
@@ -874,20 +884,62 @@ function viewTableau(lg, ms){
 }
 
 function newsFor(lg){
-  return NEWS.filter(n => n.leagues.includes(lg.slug));
+  const t = n => n.d ? Date.parse(n.d) || 0 : 0;
+  return NEWS.filter(n => n.leagues.includes(lg.slug) || (lg.slug === 'worlds' && n.any)).sort((a, b) => t(b) - t(a));
+}
+function newsWhen(n){
+  if (!n.d) return n.when || '';
+  if (!n.d.includes('T')) return fDate.format(new Date(n.d + 'T12:00:00+02:00'));
+  const mins = Math.round((now() - Date.parse(n.d)) / 60000);
+  if (mins < 60) return `il y a ${Math.max(1, mins)} min`;
+  if (mins < 24 * 60) return `il y a ${Math.round(mins / 60)} h`;
+  return fDate.format(new Date(n.d));
 }
 function newsList(list){
   return `<div class="news">${list.map(n => `<article class="panel">
-      <div class="meta"><span>${n.d ? esc(fDate.format(new Date(n.d + 'T12:00:00+02:00'))) : esc(n.when || '')}</span><span class="tag${n.lec ? ' lec' : ''}">${esc(n.tag)}${n.lec ? ' · LEC' : ''}</span></div>
-      <h3>${esc(n.t)}</h3><p>${esc(n.s)}</p>
+      <div class="meta"><span>${esc(newsWhen(n))}</span><span class="tag${n.lec ? ' lec' : ''}">${esc(n.tag)}${n.lec && !/LEC/.test(n.tag) ? ' · LEC' : ''}</span></div>
+      <h3>${esc(n.t)}</h3>${n.s ? `<p>${esc(n.s)}</p>` : ''}
       <a href="${esc(n.url)}" target="_blank" rel="noopener">Lire sur ${esc(n.src)} ↗</a>
     </article>`).join('')}</div>`;
 }
 function viewActus(lg){
   const list = newsFor(lg);
-  return `<section class="sec">${secHead('Actus', lg.slug === 'worlds' ? 'Le fil des Worlds' : `Le fil ${lg.name}`)}</section>
-    ${list.length ? newsList(list) : `<div class="ph">Pas d'actu pour l'instant.</div>`}
-    <p class="note">Résumés rédigés à partir des articles liés.</p>`;
+  const busy = state.refreshing;
+  const note = newsState.live
+    ? `Articles de la presse française, recherchés toutes les 30 minutes.${newsState.checkedAt ? ` Chargés à ${fTime.format(newsState.checkedAt)}.` : ''}`
+    : `Sélection intégrée à l'app au ${fDate.format(new Date(SNAPSHOT_AT))}. En ligne sur GitHub Pages, les actus se chargent seules à chaque ouverture.`;
+  return `<section class="sec">
+      <div class="sec-head"><div class="stack" style="gap:6px"><span class="eyebrow">Actus</span><h2>${lg.slug === 'worlds' ? 'Le fil des Worlds' : `Le fil ${esc(lg.name)}`}</h2></div>
+        <button class="btn sm" data-refresh${busy ? ' disabled' : ''}>${busy ? 'Actualisation…' : 'Actualiser'}</button></div>
+      <p class="note">${esc(note)}</p></section>
+    ${list.length ? newsList(list) : `<div class="ph">Pas d'actu ${esc(lg.name)} ces derniers jours.</div>`}`;
+}
+
+/* ---------- Actus automatiques ---------- */
+async function loadNews(){
+  try {
+    const r = await fetch(NEWS_URL + '?t=' + Date.now(), {cache: 'no-store'});
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const j = await r.json();
+    const items = (j.items || []).filter(x => x && x.t && x.url);
+    if (!items.length) throw new Error('vide');
+    NEWS.splice(0, NEWS.length, ...items.map(x => {
+      const lgs = Array.isArray(x.leagues) ? x.leagues : [];
+      const labels = Object.keys(NEWS_LABELS).filter(k => lgs.includes(k)).map(k => NEWS_LABELS[k]);
+      return {d: x.d, t: x.t, s: x.s || '', src: x.src || 'Presse', url: x.url, leagues: lgs, lec: lgs.includes('lec'), tag: labels.slice(0, 2).join(' · ') || 'Esport', any: true};
+    }));
+    newsState.live = true;
+  } catch (e) { /* hors GitHub Pages ou fichier absent : on garde les actus intégrées */ }
+  newsState.checkedAt = new Date();
+}
+async function refreshAll(){
+  if (state.refreshing) return;
+  state.refreshing = true;
+  if (state.view === 'actus') render();
+  await Promise.all([loadNews(), goLive()]);
+  state.refreshing = false;
+  state.lastRefresh = now();
+  render();
 }
 
 /* ================= Fiche équipe ================= */
@@ -1025,28 +1077,30 @@ async function loadLeague(slug){
 }
 async function goLive(){
   try {
-    const lj = await api('/getLeagues');
-    const ids = {};
-    ((lj.data && lj.data.leagues) || []).forEach(l => { ids[l.slug] = l.id; });
-    if (!Object.keys(ids).length) throw new Error('no leagues');
-    state.leagueIds = ids;
+    if (!state.leagueIds) {
+      const lj = await api('/getLeagues');
+      const ids = {};
+      ((lj.data && lj.data.leagues) || []).forEach(l => { ids[l.slug] = l.id; });
+      if (!Object.keys(ids).length) throw new Error('no leagues');
+      state.leagueIds = ids;
+    }
     await loadLeague(state.league);
     if (state.league !== 'worlds') { try { await loadLeague('worlds'); } catch (e) {} }
     state.live = true;
-    render();
-    setInterval(async () => {
-      if (document.hidden) return;
-      try { await loadLeague(state.league); render(); } catch (e) {}
+    if (!state.timer) state.timer = setInterval(async () => {
+      if (document.hidden || state.refreshing) return;
+      try { await loadLeague(state.league); } catch (e) {}
+      if (now() - (newsState.checkedAt ? newsState.checkedAt.getTime() : 0) > 10 * 60000) await loadNews();
+      render();
     }, REFRESH_MS);
-  } catch (e) {
-    state.live = false;
-  }
+  } catch (e) { /* API injoignable : on garde les données intégrées */ }
 }
 
 /* ================= Interactions ================= */
 document.addEventListener('click', async ev => {
-  const el = ev.target.closest('[data-view],[data-go],[data-league],[data-filter],[data-team],[data-close]');
+  const el = ev.target.closest('[data-view],[data-go],[data-league],[data-filter],[data-team],[data-close],[data-refresh]');
   if (!el) { return; }
+  if (el.matches('[data-refresh]')) { refreshAll(); return; }
   if (el.matches('[data-close]')) { closeTeam(); return; }
   if (el.dataset.team) { openTeam(el.dataset.team); return; }
   if (el.dataset.view || el.dataset.go) {
@@ -1069,9 +1123,14 @@ window.addEventListener('hashchange', () => {
   if (VIEWS.includes(v) && v !== state.view) { state.view = v; render(); }
 });
 
+/* À chaque ouverture, et au retour sur l'app après 2 min : actus + scores rechargés. */
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden && now() - state.lastRefresh > 120000) refreshAll();
+});
+
 render();
 setInterval(tick, 1000);
-goLive();
+refreshAll();
 })();
 </script>
 
