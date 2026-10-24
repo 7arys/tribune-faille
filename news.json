@@ -1,33 +1,13 @@
 {
- "generated": "2026-10-24T13:14:27Z",
+ "generated": "2026-10-24T16:51:58Z",
  "items": [
   {
-   "t": "Worlds 2026 : la LCK écrase le Round 1 du Swiss Stage, la LPL s'effondre totalement",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUUZzdUE2c1Y5M3JzbWlpR0ZSNkJfTV96QzFaNnQ0RXlTNHpOUEJvdmVMWVNrLTlDZzN4bGtjVXRCMTV6bzBBSzhEVUlKb3poN1ZuLUR0QzlYM3YwdklpbTI0S1phOTFJbnpsUGlqZjZXbGJQLW5zQ2J5WGZxMzR2NVJkQXJKcHVBdEpVRzdxZFp3eFJEZGZMMkFaS19LWnBEVmtPaS1YdGpaaENJN2FZZjNPeTlqMjF3ZGJYb2lJR0xhUQ?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-24T11:24:52Z",
+   "t": "LoL Worlds 2026 : Équipes, calendrier, format et favoris",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXdmWFh6cXZIVlA2TE1YWGM3bGZGUFVIS0laMGtjWUFFdGFyN1ZYUmItdXNTV0xNNF83ZUYyU25JY1E4dS1WaXpWcjlXa1psUnRYNFFaOHkycm45NVFlcWdKcnJINzFIX01RSGp2dEtNa05IQjF3M3hFWV9fRW5vRmlLVmtrYWxEZXRydGlIaFlSNUstbFA4QWl1ZC01a2lLVGlkR19n?oc=5",
+   "src": "games.gg",
+   "d": "2026-10-24T13:07:14Z",
    "leagues": [
-    "worlds",
-    "lck"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : T1 écrase LOS en moins de 25 minutes pour son entrée en lice dans le Swiss Stage",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0hLUnI3Nm52YlVCQ2lSRDBjNzBTYTdadDdKejNLNEgwOVg1d2pVby10S1RvQVUtVEhNZkF1bjhTVjgwNmRCZXA5Y0hudzh0Wjd1UGoxT29XRllLRWpfcnNLb3RqS1d6OGZfanY2LUlNbXNMd2VpNUhzdjMwOC13WnRiWnpMbWE4ZG14ZjlKUFo1UFhLZVdqS1pTZ1dDLWZMazBoNndGeHNVRjRxUHNwTHY5Z3FpZFE2M0xpbzF0cm9TWGJUMHNFbno1a2FlbGttbTc0?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-24T10:09:29Z",
-   "leagues": [
-    "worlds",
-    "lck"
-   ]
-  },
-  {
-   "t": "G2 Esports - LOS - Résultats en direct",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96d2RxWFpDdFcwVG9EUC0xTE9PdkoyWWNqb0s1VnZrWmR3ZHdhdE1MSHZaYzRmeE1QMkRGeDd6WkF2QXNMMXpKLXAyMmluckpWaTNzYi1mV050RkprQnhlZU1sNWkwUnZRT0t4bDh5T1d1eVV6dVE?oc=5",
-   "src": "Sofascore",
-   "d": "2026-10-24T08:30:24Z",
-   "leagues": [
-    "lec"
+    "worlds"
    ]
   },
   {
@@ -52,12 +32,13 @@
    ]
   },
   {
-   "t": "Team Liquid - Bilibili Gaming - Résultats en direct",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWtOdFluRURYME5paW5ZbnJ1VmNaT3pMaHVTaFFZTnFEWlVUMDNuMkk2T1JnVFR5T2pWUXFiY3p0bW1iZE5DSS1MamFMOFduMU1tOXRiY1dYbkJ4WTNQejdfZkdlcG9sWHhzWGwtVnZFcENqMjhqUnU3QkI0R0txeDcwUkJLNnc?oc=5",
-   "src": "Sofascore",
-   "d": "2026-10-24T07:45:09Z",
+   "t": "Worlds 2026 : T1 écrase LOS en moins de 25 minutes pour son entrée en lice dans le Swiss Stage",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0hLUnI3Nm52YlVCQ2lSRDBjNzBTYTdadDdKejNLNEgwOVg1d2pVby10S1RvQVUtVEhNZkF1bjhTVjgwNmRCZXA5Y0hudzh0Wjd1UGoxT29XRllLRWpfcnNLb3RqS1d6OGZfanY2LUlNbXNMd2VpNUhzdjMwOC13WnRiWnpMbWE4ZG14ZjlKUFo1UFhLZVdqS1pTZ1dDLWZMazBoNndGeHNVRjRxUHNwTHY5Z3FpZFE2M0xpbzF0cm9TWGJUMHNFbno1a2FlbGttbTc0?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-24T07:38:25Z",
    "leagues": [
-    "lcs"
+    "worlds",
+    "lck"
    ]
   },
   {
@@ -181,6 +162,16 @@
    ]
   },
   {
+   "t": "Worlds 2026 : la LCK écrase le Round 1 du Swiss Stage, la LPL s'effondre totalement",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUUZzdUE2c1Y5M3JzbWlpR0ZSNkJfTV96QzFaNnQ0RXlTNHpOUEJvdmVMWVNrLTlDZzN4bGtjVXRCMTV6bzBBSzhEVUlKb3poN1ZuLUR0QzlYM3YwdklpbTI0S1phOTFJbnpsUGlqZjZXbGJQLW5zQ2J5WGZxMzR2NVJkQXJKcHVBdEpVRzdxZFp3eFJEZGZMMkFaS19LWnBEVmtPaS1YdGpaaENJN2FZZjNPeTlqMjF3ZGJYb2lJR0xhUQ?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-23T19:00:59Z",
+   "leagues": [
+    "worlds",
+    "lck"
+   ]
+  },
+  {
    "t": "Worlds 2026 : Dplus KIA renverse G2 Esports au terme d'un finish explosif",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQk5WTzBWOXhsdnB0SUw0Sm5uOGkzY3ZDY3FhRUdqQVpMRFg4UVhDMDZMR29VX0lUdzV5OVFjaUlFYklnT3otNkdPNDhYLVpaVUxCT1lMdWdsRUYxaWhVR01pdjZWVXZNdVkxMzFKVWxudV95NG5GbWU2RlZmZEh6UWN2Ukg1bHExUXowd1VYZ1E0b1gyenp1ZzZ3WlQtTHFHTWpBdHJyNVV5c0E2ZGx4cmN0VTA0Zw?oc=5",
    "src": "Team-aAa",
@@ -298,6 +289,15 @@
    ]
   },
   {
+   "t": "LOS - T1 - Résultats en direct",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90VWVsUmp5a3dFaTJiTjJnNFA3Vl9EYWN6dzM3X0o2ZW4xU0JmU0liLWg3Tk5QbUYwMGZBSE5MVlRnQ0RuZkgtZXA1RFRXcmJ4R2h3MFpCYkpXaFhoby1DX0Z3SzFIRl9WVVdv?oc=5",
+   "src": "Sofascore",
+   "d": "2026-10-23T08:13:56Z",
+   "leagues": [
+    "lck"
+   ]
+  },
+  {
    "t": "Caliste et la Karmine Corp, avant de découvrir les Mondiaux de League of Legends : « Aux Worlds, il y a de la magie »",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazk3ZlpDMVhFNGpMclB2a0d1U1BtS1V0TWxDS2xya241TE1HYW1TQko0dk9QeE02aUtqcXhodkg0RFV1clk5UENfT01rdm05ZFNPUVRKT3VWOEpZSXFtYWNSNmIwMUFVZEFabEdmYmpDaUhHekQ0bG1oT1VPN3R0MlpwZDlWQUlGOHotbGZzVWtlUG1SbTJ0WndHWVNUM1EwWjVvZ0l3M2lELV9pbmJrUlQ2MVcta0w5cHVtWk5ydHdaLWZkcjdvWDdsWlNORDhBcjZqNXNoU09vejhOeWl3T2NONjlsSmZQYmdHVnFORlFnQ2lZN1dV?oc=5",
    "src": "L'Équipe",
@@ -318,8 +318,8 @@
   },
   {
    "t": "Worlds League of Legends - Les Worlds entrent dans le vif du sujet avec la phase de ronde suisse",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSDFPcVdrSC1GQ240dGl1c1pmRHlVLTlIa3N1N2o4NG1GZThWdjZuUlBVUVlMSTh1TVU5S3I0czJwcDNGeHZKV1kyN3I5eXdfdVR0U1lwNUxpQTJ5MXhPRzY1a1JQaWJGQWo3NEdmQmlXLTFDVkRpMV96T0gzcXZfbXdFbzNWeUg5dVFXR3F5ZUsxZkNZQjB6c1hwWVk5emdGVUpTam40bHpPRkRmN0tJRS1ycC00YkpUN2hhYkpNQlVFZ2hsN0VXVDRHU3dzMjhiaVdxRzdvMWk0NVVRYlBIX3NWUTFSam5UYWx6cVB5LVc3LWYyWUg0Vjl0UnZkQnZrelpyd29n?oc=5",
-   "src": "La Libre.be",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQV95TXBjT242MEt4QXRfUlJyR21jSDhFSFJDY3kwUjJYSzRoSlktMHdHTVRQVThCNFVzSFRORGlwZ0xhWGJsc3JrWU02YS1SQlpiU0o5ZVByYXUtMzNUdFdCb2ZYcWs4anBJM2tSTS0welNyT0d0aU1PUWtCTG5SdHg1RzhiWjMtS0FtaXdNbFZYN1VLaWxoQlM3OC1zRDVTeUY4aWhMaExnZlNFaWdDYzdhdGRlTGZUVDFnREtZMXVPcEI3LXR5ZGJCUUpxRVM4OHVLTklnNy1EeWowaGQwQUVBRFp0MFdvcTZvb1BaYlhPaW55VVVpRjItSjlfa1ZUUDBR?oc=5",
+   "src": "DHnet",
    "d": "2026-10-23T04:34:00Z",
    "leagues": [
     "worlds"
