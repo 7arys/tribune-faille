@@ -1,6 +1,45 @@
 {
- "generated": "2026-10-24T16:51:58Z",
+ "generated": "2026-10-24T19:21:49Z",
  "items": [
+  {
+   "t": "Worlds 2026 : G2 – LOS en direct",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wX2NUaTRra3I3YjNyYWdneE9ZWkFZalZZM09HMjZtUTVQNFkxRUZzSG52dlU5ZXg0cWw3Vlo2Y0Jjd0g2eG9fekhoQktHd1pSQk5keGplN05YS0FPNFBacFF0bUExaUlGZ3lZM2hxNlhNQQ?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-10-24T18:50:00Z",
+   "leagues": [
+    "worlds",
+    "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, G2 et MKOI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRYQ1B5cTdQZ1RsUDU0SHJmTUQ4MEthQ1dnZVJwSWtVbVZKMUExQXlBV0xURG0tdE8zcmdGQ0JidFV4bUFQVXpsTmctVXphdEVuZGhfUFBsbWpWaFNWMU15ZTJTVnJ1dV9vN3JBTFhEMU5fa3ZQdkJUdDQ4MWFvNWZRT0xKSEU?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-24T18:33:00Z",
+   "leagues": [
+    "worlds",
+    "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : CFO – KOI en direct",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lWUVIaXlMbHlRSDlralZMaXJ6WmdWN2loc0FWTVA1Qi0zWXZITlQ1T3diR0gtWXkxVzJIbVJGdmV1N0VURk1jeG56bVBZYWpYYnFGTDZiWXAyMi0tX3EwQWduVW5iRnhydlVHZTFqaldkVEk?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-10-24T17:50:00Z",
+   "leagues": [
+    "worlds",
+    "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : Top Esports – Anyone’s Legend en direct",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjQ1dFdCV2RpbHI0blNqRk1RSG1pNnBDM0VweV9HYTJUQjFCQlhlbEpRUjEyM1ZIeVJ3cHM0ZE5BRWNpTm1nNE5IMDljaEliTk5YWWQxLW1WWHFDS1kzZlBURk04bzZIQ2t0eVZ3ZGV6aEQxX3JVZk9Vb3hWRjQ0X0Y5T09ST1Y2SUEzQw?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-10-24T16:50:00Z",
+   "leagues": [
+    "worlds"
+   ]
+  },
   {
    "t": "LoL Worlds 2026 : Équipes, calendrier, format et favoris",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXdmWFh6cXZIVlA2TE1YWGM3bGZGUFVIS0laMGtjWUFFdGFyN1ZYUmItdXNTV0xNNF83ZUYyU25JY1E4dS1WaXpWcjlXa1psUnRYNFFaOHkycm45NVFlcWdKcnJINzFIX01RSGp2dEtNa05IQjF3M3hFWV9fRW5vRmlLVmtrYWxEZXRydGlIaFlSNUstbFA4QWl1ZC01a2lLVGlkR19n?oc=5",
@@ -8,6 +47,15 @@
    "d": "2026-10-24T13:07:14Z",
    "leagues": [
     "worlds"
+   ]
+  },
+  {
+   "t": "G2 Esports - LOS - Résultats en direct",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96d2RxWFpDdFcwVG9EUC0xTE9PdkoyWWNqb0s1VnZrWmR3ZHdhdE1MSHZaYzRmeE1QMkRGeDd6WkF2QXNMMXpKLXAyMmluckpWaTNzYi1mV050RkprQnhlZU1sNWkwUnZRT0t4bDh5T1d1eVV6dVE?oc=5",
+   "src": "Sofascore",
+   "d": "2026-10-24T08:30:24Z",
+   "leagues": [
+    "lec"
    ]
   },
   {
@@ -28,6 +76,15 @@
    "leagues": [
     "worlds",
     "lec",
+    "lcs"
+   ]
+  },
+  {
+   "t": "Team Liquid - Bilibili Gaming - Résultats en direct",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWtOdFluRURYME5paW5ZbnJ1VmNaT3pMaHVTaFFZTnFEWlVUMDNuMkk2T1JnVFR5T2pWUXFiY3p0bW1iZE5DSS1MamFMOFduMU1tOXRiY1dYbkJ4WTNQejdfZkdlcG9sWHhzWGwtVnZFcENqMjhqUnU3QkI0R0txeDcwUkJLNnc?oc=5",
+   "src": "Sofascore",
+   "d": "2026-10-24T07:45:09Z",
+   "leagues": [
     "lcs"
    ]
   },
@@ -146,16 +203,6 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGh3ajlVX0VibXEtQ2VpcFZxN01ROG4wa09xQTZEOVM1dERQdEx4ZDF3eUVjeURwZDZTWTR4dVE0U0ZVWDAtVjRoTF9KRE9QbDZ6c0E3cGZ6X2NYUFJiVm1zOXJqODU4UEZkVEFnLVVyU1A3eDVmNmhmOUNJeDEwQkNuYllIaVdxYUMzTk5R0gGTAUFVX3lxTE9DeWk1Ty1Yc256OEJwelVTNXRRWERnemZmanMzdkpIdWw2bGJpUU1mRGI1eEFSYzcyY1JCUXRBNFhITk5nLWNoMHd6aXhmZVA2TExUZVFtVHhpTmhfdkNrRUJOS1EyNVNfVzJiX3IyRXFzWUctLWlnbng2bEZjNV8zMG44c1E4UXY4dmQyam5tbXl4VQ?oc=5",
    "src": "E.SPORT.FR",
    "d": "2026-10-23T19:50:00Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, G2 et MKOI - Page 8",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjhMZ1VwQWdoMVlZaUFVbjVGd2hudHJ4SGRsb3F6UFp3VHZZb1RLR3d5cE5mNlVuU21vRzQ1VzZCOWF5NTBMcF94NklfV1l4OHFCM2hRTWFrQXppY1RZVUhtdXptMGpPcVVLUmxla1dkbi1DR3B2U25nbXhGYUhjbjVCVEI2U00?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-23T19:01:00Z",
    "leagues": [
     "worlds",
     "lec"
@@ -289,15 +336,6 @@
    ]
   },
   {
-   "t": "LOS - T1 - Résultats en direct",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90VWVsUmp5a3dFaTJiTjJnNFA3Vl9EYWN6dzM3X0o2ZW4xU0JmU0liLWg3Tk5QbUYwMGZBSE5MVlRnQ0RuZkgtZXA1RFRXcmJ4R2h3MFpCYkpXaFhoby1DX0Z3SzFIRl9WVVdv?oc=5",
-   "src": "Sofascore",
-   "d": "2026-10-23T08:13:56Z",
-   "leagues": [
-    "lck"
-   ]
-  },
-  {
    "t": "Caliste et la Karmine Corp, avant de découvrir les Mondiaux de League of Legends : « Aux Worlds, il y a de la magie »",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazk3ZlpDMVhFNGpMclB2a0d1U1BtS1V0TWxDS2xya241TE1HYW1TQko0dk9QeE02aUtqcXhodkg0RFV1clk5UENfT01rdm05ZFNPUVRKT3VWOEpZSXFtYWNSNmIwMUFVZEFabEdmYmpDaUhHekQ0bG1oT1VPN3R0MlpwZDlWQUlGOHotbGZzVWtlUG1SbTJ0WndHWVNUM1EwWjVvZ0l3M2lELV9pbmJrUlQ2MVcta0w5cHVtWk5ydHdaLWZkcjdvWDdsWlNORDhBcjZqNXNoU09vejhOeWl3T2NONjlsSmZQYmdHVnFORlFnQ2lZN1dV?oc=5",
    "src": "L'Équipe",
@@ -354,44 +392,6 @@
    "leagues": [
     "worlds",
     "lec"
-   ]
-  },
-  {
-   "t": "« Je n’ai aucune limite » : Faker affiche ses ambitions avant les Worlds 2026",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeE1CNEJDSWh0dnJ2ZzA5Q0R6WDh2aTlGWDUzckxIYk5takswaHlrX05fX2MyVk1LREFGREJGTnVFSHYzZG1nMm9wSW9nRjJDd3NFRUxtdHlpTVZvSlgzcGR4bHFiNmJuSDA0SXlFdkxCZVIxM3N0MWN1cldBNEo1Z0FKajV6UGJPNl9DRi1MQ0dIa005N0hLZ0thOGRhY05sVGNRY3V2VHV2QdIBrwFBVV95cUxONVpiNnV5ZmhGVWJkd05NaEhWX3pOVERtRmg4QjQ5RVhWdHpIcVN0R0pBd1I3T2M5RTBERzFuR1pveFF1b2ZUc0J2cVk0RkpJYlZvbmhCVmpMQ2VKLXBrTXVpVXdjektDOWliMnVKZlZlMU9OSlREd015b2JHOTRvT2NOMFVpeEg3UWVpTXVlZUdHbWFFODVGV19saWV1NkNTRzZLdzRnRUlPZnhSQjVV?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-22T15:00:00Z",
-   "leagues": [
-    "worlds",
-    "lck"
-   ]
-  },
-  {
-   "t": "T1 Peyz: \"This is my moment because my team and I want to shine the brightest this year\"",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQW54TkJmY0I0X0ljalg4N1YtNEV3TGxHRkZkTG1WV0tRLXRxS3ZwVlVTOFZ4WTAzekhxcE93V0RlMksxb3dQRjZGTV9JdmE4dl8zakxuVjBZdGtvel9TR1lNN2tlMU5HME1SeDhSbWdVT0RIaV9LVWxadUd2ZFpWVW9Td2FPRFNkWi1JZkVOWkpNT3VfMzhQalI0ZDlXV3M5QzVIdUpHYi1zbXFncENiRG5xSlJXMkJMajBRcE1JdU80OWVBSjNUVQ?oc=5",
-   "src": "Sheep Esports",
-   "d": "2026-10-22T14:02:30Z",
-   "leagues": [
-    "lck"
-   ]
-  },
-  {
-   "t": "Avant la Karmine Corp, deux clubs français avaient pris part aux Worlds",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUZtTVdGV2xoQXltTG5yLXlmbExLeG5YcWw1c2hZSnl1d0oybGNBNUptMS10MXY5d2dSamtUWDhPa2FMQkFzWjdWallqZEpVT1ZOUGNfY2h0TFhxdWM1NWFmTGNSMjFVdVVJRHM0TXBrMTdoYTBkNS1KakNfaGFXWHhZanJLS25fbkxZQmVWbzJpYW9LYl90YU9xZWtMVDRiWTJXT2NZM1A2cTJCQXdXN2dqTTJCdG8?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-22T13:47:05Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Les Français aux Worlds : 13 noms et quinze ans d'histoire de 2011 à 2026",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjM5SFhiUHlPVjBMWExLMFB4UTYwMTdoUXkydnFrTGRuTV96WHB0WmViMFdFcUpfM0R6R2Ntclp1UUEtdG9aR2FHUDhGaWZETkVPZGRYb2NyX0lsYXB1S012a2lBLUdjOTBVX1RYUWEzbWswOU5OeG1CdndkVkJ6MkJCREFjVldsUkRDaUpMNTFFOE9RVlZrV3J3djlvNW5hdWJETHVJQ29rMnpLMnQ1QWhRcXJhUQ?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-22T13:09:00Z",
-   "leagues": [
-    "worlds"
    ]
   }
  ]
