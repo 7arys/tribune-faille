@@ -1,21 +1,42 @@
 {
- "generated": "2026-10-24T19:21:49Z",
+ "generated": "2026-10-24T21:48:16Z",
  "items": [
+  {
+   "t": "Worlds 2026 : Secret Whales – Invictus Gaming en direct",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSVplMkswUUl0WDZMUHZIbzhHc0ZHelRZbkVNNGhpU29FbEJxcnNudnVCWUFjMWhCN0dmV1hjSU1WZDZwdnVHWlAwOS1RU2RCcFhyYnJyVjNuU1hQOE1VbGtaNUp2NExFZUJwcWlBb1hRUW9leFdseFNiSG0yQWRxU0cxYnRZTm5lT0liRmRyS00?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-10-24T20:50:00Z",
+   "leagues": [
+    "worlds"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : la Karmine Corp s'incline contre contre LYON pour son deuxième match du Swiss Stage",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTNWMmc0VU9memtndlNGX2g4NUd2OGpoYkpUSnRPRFdlYlBXcVM4TzJpZGhPRHM0a3pKcDd1LTVxZ3RoLVJ3M0d0aE83M0xXZDk2TmhvZ1FHWnBQbkI2OXRoa09xd1NYWkJiU0RSYUFHaTNnSWxtVFZaNGVXVFJlRzJwcjQwcF94OHYwa0VCSQ?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-24T20:33:21Z",
+   "leagues": [
+    "worlds",
+    "lec",
+    "lcs"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : LYON – Karmine Corp en direct",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2wwOXdIUW5WSV9NWDZzNFFIOUplR2ZJcW8tb2J5QnhIclhXd2RYaXNkMEhwOWtlSHZoNnhkel9FV3BkVG9ldGJJbF9lVXBvZDBEcDBFbU5ZeWdSb2FCN01palg2bGJ0VXhIUU8tOFBFSTQyZFNSUFpXdkFxVjFacg?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-10-24T19:50:00Z",
+   "leagues": [
+    "worlds",
+    "lec",
+    "lcs"
+   ]
+  },
   {
    "t": "Worlds 2026 : G2 – LOS en direct",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wX2NUaTRra3I3YjNyYWdneE9ZWkFZalZZM09HMjZtUTVQNFkxRUZzSG52dlU5ZXg0cWw3Vlo2Y0Jjd0g2eG9fekhoQktHd1pSQk5keGplN05YS0FPNFBacFF0bUExaUlGZ3lZM2hxNlhNQQ?oc=5",
    "src": "E.SPORT.FR",
    "d": "2026-10-24T18:50:00Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, G2 et MKOI",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRYQ1B5cTdQZ1RsUDU0SHJmTUQ4MEthQ1dnZVJwSWtVbVZKMUExQXlBV0xURG0tdE8zcmdGQ0JidFV4bUFQVXpsTmctVXphdEVuZGhfUFBsbWpWaFNWMU15ZTJTVnJ1dV9vN3JBTFhEMU5fa3ZQdkJUdDQ4MWFvNWZRT0xKSEU?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-24T18:33:00Z",
    "leagues": [
     "worlds",
     "lec"
@@ -47,15 +68,6 @@
    "d": "2026-10-24T13:07:14Z",
    "leagues": [
     "worlds"
-   ]
-  },
-  {
-   "t": "G2 Esports - LOS - Résultats en direct",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96d2RxWFpDdFcwVG9EUC0xTE9PdkoyWWNqb0s1VnZrWmR3ZHdhdE1MSHZaYzRmeE1QMkRGeDd6WkF2QXNMMXpKLXAyMmluckpWaTNzYi1mV050RkprQnhlZU1sNWkwUnZRT0t4bDh5T1d1eVV6dVE?oc=5",
-   "src": "Sofascore",
-   "d": "2026-10-24T08:30:24Z",
-   "leagues": [
-    "lec"
    ]
   },
   {
@@ -203,6 +215,16 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGh3ajlVX0VibXEtQ2VpcFZxN01ROG4wa09xQTZEOVM1dERQdEx4ZDF3eUVjeURwZDZTWTR4dVE0U0ZVWDAtVjRoTF9KRE9QbDZ6c0E3cGZ6X2NYUFJiVm1zOXJqODU4UEZkVEFnLVVyU1A3eDVmNmhmOUNJeDEwQkNuYllIaVdxYUMzTk5R0gGTAUFVX3lxTE9DeWk1Ty1Yc256OEJwelVTNXRRWERnemZmanMzdkpIdWw2bGJpUU1mRGI1eEFSYzcyY1JCUXRBNFhITk5nLWNoMHd6aXhmZVA2TExUZVFtVHhpTmhfdkNrRUJOS1EyNVNfVzJiX3IyRXFzWUctLWlnbng2bEZjNV8zMG44c1E4UXY4dmQyam5tbXl4VQ?oc=5",
    "src": "E.SPORT.FR",
    "d": "2026-10-23T19:50:00Z",
+   "leagues": [
+    "worlds",
+    "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, G2 et MKOI - Page 8",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjhMZ1VwQWdoMVlZaUFVbjVGd2hudHJ4SGRsb3F6UFp3VHZZb1RLR3d5cE5mNlVuU21vRzQ1VzZCOWF5NTBMcF94NklfV1l4OHFCM2hRTWFrQXppY1RZVUhtdXptMGpPcVVLUmxla1dkbi1DR3B2U25nbXhGYUhjbjVCVEI2U00?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-23T19:01:00Z",
    "leagues": [
     "worlds",
     "lec"
@@ -368,27 +390,6 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeXpZUHRzRXVFQ3BoZHFKNGxiZlBtWmdXMmlKMGtkSmx3SjQza05aQ28yeXhVbk9Fa0F6NUVFMFRCeXM2d00xUVI0Mkd2dGhDSmE1R3FUWVRuZWd5N0plcG9LTHlERUUtZFZ2TjlLREVFUDBjazJSLWdyQjIweGliNHRnWnJRQ3h5QlpkQ1FIaU1NcDIxbUlSR1U0OEtVMm1HY3BmU3ZaWEQ0NXVJS3BhNW00bzVjcG1JaFY2V2loWHltM2dOX0E?oc=5",
    "src": "Team-aAa",
    "d": "2026-10-22T20:12:52Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "T1, GenG, BLG, Karmine Corp : nos favoris pour les Worlds de League of Legends",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0NndGhxNUJyWkx5aWRDRC1DU2hzUEdlN0lZNUhmT2tEU1NZR2ZIRTdXX3dXT1d3M1Y5dWJWbURsRl9BV1BjN0FHcVR1bnVXUWg5a2N6OHc0VEZBWXVjV0xBNU9ZdnA2alhuUHc3U1lZbEN6SHJTVkpSWURTSGE5TGV2VDVoVE1VQUpoaVJ4NjdtRTljQmt6bjRlcXduendqSWZjVFVPZkdpbFhDUUJMMkFQTDlZUjAzYk5HVmQ4dw?oc=5",
-   "src": "L'Équipe",
-   "d": "2026-10-22T17:30:00Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : G2, MKOI et la KC défient l'Asie en ouverture du Swiss Stage",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0xOYXFaMFc5Tk1UaUxRT1pOeE9lVmJWTEd4cDFjLVhuMm5LbDJCbWNZbW96LTlYQ0M2WFdadHlmY0pMRDFnMHJIbE52QnpzZEt4MHpFdzZlYThudHpTUko1bDBNRlJZeFJlN05uS011ZjNJM3VCSHBRVUo4TU4xaTBid1ZtQ2lRckdFTEhqcHlMTW5NaWFzWEd1RHp5MkJFZUI3a0FrNjNfZlF2V1lWRDIwSS1nZw?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-22T15:10:00Z",
    "leagues": [
     "worlds",
     "lec"
