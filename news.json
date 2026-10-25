@@ -1,11 +1,22 @@
 {
- "generated": "2026-10-25T17:46:44Z",
+ "generated": "2026-10-25T20:40:26Z",
  "items": [
   {
-   "t": "Worlds 2026 : quand jouera la Karmine Corp contre BLG ?",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSC1KRUEwdERpdHZfeEpMZTkzd18tYWVQTklteHhKRi1MYXh3TXMtQnNtdGpGeTV2M0JsXzFReDc1RWFtMDNzUmJUX3FsOWg2X2c1Q2stbUgxeGZueGlxTkhTVUpBb1VuYnk2YjJTNFJkSFJLaks2ZUdoMVJpblBYb0x0aGVYTnp3WFBZTU1ROXB6emhNSENibks2VFc?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-25T17:08:26Z",
+   "t": "Worlds 2026 : KOI – Dplus KIA en direct",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92WDlGckJQYXdYWnJ2MUVWMDNGc3BJNVpNQkwzRlRjSC1CdEJrUk1CZ0lWaGpUdDcyTGVzMUluOFh5R3JZSUY4WU1wZFhHX3pvOVhmbGRFUXRtaVQ2bWxPYVlhRUZkZkdLb1lVXzBlUVN4ZnJkcFVYWGVhOA?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-10-25T18:50:00Z",
+   "leagues": [
+    "worlds",
+    "lec",
+    "lck"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : G2 – Top Esports en direct",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02anN4NHRZTkk2NmRiQ29tWHJGdFN0RFhWUkRFVTZiWDRaVUp1TVdVc1ZzTENHYVY1RlgtTC1zd0dHZC1rQnV1cGkzU2Znd3VNX2tnMWxaNFlkWnkyNm8wWk9fQzNaZG05U1lCWEVPLWROSW9GbG14RGQzeVA?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-10-25T17:50:00Z",
    "leagues": [
     "worlds",
     "lec"
@@ -19,6 +30,16 @@
    "leagues": [
     "worlds",
     "lck"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, G2 et MKOI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRYQ1B5cTdQZ1RsUDU0SHJmTUQ4MEthQ1dnZVJwSWtVbVZKMUExQXlBV0xURG0tdE8zcmdGQ0JidFV4bUFQVXpsTmctVXphdEVuZGhfUFBsbWpWaFNWMU15ZTJTVnJ1dV9vN3JBTFhEMU5fa3ZQdkJUdDQ4MWFvNWZRT0xKSEU?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-25T16:18:00Z",
+   "leagues": [
+    "worlds",
+    "lec"
    ]
   },
   {
@@ -71,6 +92,16 @@
    ]
   },
   {
+   "t": "Team Liquid vs Anyone's Legend | Worlds 2026 | 26 octobre 2026",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTdYRFVpakd1eWZOQnh6c1dOcWxVRGkxVnhuZzJUOUN3eDZ5bmFpWmhlN2NialNPaUhsSXQ2TkgxLXVOa0h4dXhzbjV6RXNfVThWaGREREtvbU1SMFRkLTBENW5PSkwxcm12OGNrWG1Ib2M5TG5GRDdxb1U1SnktRExtTEJKRWhLVTdjMDlIVjctVkZvNUJFOGxqNGdCd0MxOERCYUV6NkU5LXc?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-10-25T06:47:32Z",
+   "leagues": [
+    "worlds",
+    "lcs"
+   ]
+  },
+  {
    "t": "Worlds 2026 : Team Liquid – Bilibili Gaming en direct",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2EtVVNJNVVSSFRyVThjLUQ4bG42Tm1HOTNLOWZYTzk1RmxkNlMzbk1sOTk2QklTeDNvUDRuOVpmV0I2Ny1uN3RlU2FZS21EVUtzaTh6aFFFaWV1X2hhZlBLRm54TFQ1cE5ia0ZaV1FoVldGZmlEOUFMZXpxbjUzZmxUSlozY3NhTVZ2TjFn?oc=5",
    "src": "E.SPORT.FR",
@@ -111,6 +142,16 @@
    ]
   },
   {
+   "t": "Worlds 2026 : quand jouera la Karmine Corp contre BLG ?",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSC1KRUEwdERpdHZfeEpMZTkzd18tYWVQTklteHhKRi1MYXh3TXMtQnNtdGpGeTV2M0JsXzFReDc1RWFtMDNzUmJUX3FsOWg2X2c1Q2stbUgxeGZueGlxTkhTVUpBb1VuYnk2YjJTNFJkSFJLaks2ZUdoMVJpblBYb0x0aGVYTnp3WFBZTU1ROXB6emhNSENibks2VFc?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-24T21:31:44Z",
+   "leagues": [
+    "worlds",
+    "lec"
+   ]
+  },
+  {
    "t": "Worlds 2026 : Secret Whales – Invictus Gaming en direct",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSVplMkswUUl0WDZMUHZIbzhHc0ZHelRZbkVNNGhpU29FbEJxcnNudnVCWUFjMWhCN0dmV1hjSU1WZDZwdnVHWlAwOS1RU2RCcFhyYnJyVjNuU1hQOE1VbGtaNUp2NExFZUJwcWlBb1hRUW9leFdseFNiSG0yQWRxU0cxYnRZTm5lT0liRmRyS00?oc=5",
    "src": "E.SPORT.FR",
@@ -146,16 +187,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wX2NUaTRra3I3YjNyYWdneE9ZWkFZalZZM09HMjZtUTVQNFkxRUZzSG52dlU5ZXg0cWw3Vlo2Y0Jjd0g2eG9fekhoQktHd1pSQk5keGplN05YS0FPNFBacFF0bUExaUlGZ3lZM2hxNlhNQQ?oc=5",
    "src": "E.SPORT.FR",
    "d": "2026-10-24T18:50:00Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, G2 et MKOI - Page 4",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGVrS01hQkJadDc4c1FMZXFUQXNKSkJ2a0FnQjBiY1ZJLWtYRzhXakY3ZmFDaDdmbkZRc2R0QVpKYTBtLWlZRUh2QVU4S3R2LWl3QXY4NGJ4d0VWZHF1cE1NSHVhV3N6UWp5UnpLVERKeTNONGNXeE5wcllWYnNTZlhDMENIczg?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-24T18:33:00Z",
    "leagues": [
     "worlds",
     "lec"
@@ -301,6 +332,16 @@
    ]
   },
   {
+   "t": "Dplus Kia vs T1 | Worlds 2026 | 24 octobre 2026",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVFlNUdGRWhxZEg0MGtHX2tpYXZNUEN1MTMxVnRTSEstM1hDZVZBVE9mZHVGZVFpN2FHVEpXa0loN1pjYXFJOFM2M1B5UlhZb3MtV2dIdFJHLTBYUU5uRmhFWVZXUVdpUzJjRlJ4RVhNM0Rkd0t6cHdJV0UwcVg2dU9BMk1LS1BmOV94Q3FXbzAzVFgyM05ySEdiWTdxUjlGbHA5aUtOTm1oZkE?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-10-24T06:48:05Z",
+   "leagues": [
+    "worlds",
+    "lck"
+   ]
+  },
+  {
    "t": "Worlds 2026 : la Karmine Corp et KOI font tomber les géants chinois, la LPL en 0-4…",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUJLOEpqajhwWEk5d3NveXlzc2RmV0dmeXZ3WFFvOXFNVEVZSkVfNEpDcHNWQkhsS000NEZxd3o4NGdBLU9Rc3R6SGh1QmlOamNvbFpqWWlFWW1tR2pmN25feXYySmx2Y3J4T3B2SDM2SFNocVprZzVqbzBsSDFyMnhzTURrRUZZNWZROGgxNGFMWk1kU1MyUzNMZmtoS2l4Z0RWMWZwdm1MM184VGU4THhUVU5kbGFMX3RTZg?oc=5",
    "src": "E.SPORT.FR",
@@ -351,53 +392,12 @@
    ]
   },
   {
-   "t": "Worlds 2026 : Team Liquid – CFO en direct",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nRkxkclV6WlZpN1BnT2llYUxyOWJ6bXd4OWhrWVdzWnoyNkpUcWJvU2lQeVNodS1NVy1sNXRUd25LUjJ5ZlBKcG5WVWU4ay13Yllla05ab1NlOS1OMHl0bExDV1o3VVFSakhBQlU2UlliRXlGTVBQMmZIcU1aQQ?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-23T21:50:00Z",
-   "leagues": [
-    "worlds",
-    "lcs"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : G2 – Dplus KIA en direct",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05cjlHRE5IQUdGQmhKblByTS1XS05OQUF4elFsUG5nRzI4cUMtZlA5LTRrb2dZRU9NRmVRZW1PaVFiMlB2NDRzRFZtUWE4S2kyRFZPZkhFa29hQWRMdVFwOFZwdTNiRWMzYUdycHZzVUFYX0RxS3BUcE1n?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-23T20:50:00Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
-   ]
-  },
-  {
    "t": "Worlds LoL 2026 : les matchs du 23 octobre, horaires et où regarder le direct",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByZThqSHpvRmdmcF9lQ2pIMVdCMF9udmhRTlhMSVBWOFUyNDVRMV9tNExHeVNNeURqUDVyenAwalpkdmJ2NE5NT0tMWGx2cFlNUVktV0tYWTVJSnNDVGY3cHV3MWVlVEFySFM3NXJXTWpBdmJyYk82OWt2bnhOTlk?oc=5",
    "src": "Kingofgeek",
    "d": "2026-10-23T20:19:21Z",
    "leagues": [
     "worlds"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : la Karmine Corp remporte son premier match du Swiss Stage contre Anyone's Legend",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUp0bkhRd092UHNfelVULVlxaHgzWnlDbDdLNE1Ba3EybmIxQ2pYTVVuN0VHdGtkY29TdFhPV0hLUDhrd1VjYzFnbDlFM0JVa2JGR0FKdDF0eGJlcEF3Ny1Md0xsb3JjQjZ3RzZleVhOSnc3OERwWTFEaW5zWE1qNXlRSmNwZG85bVUxQTFvZlFfRjRDdlZxZWYxTFdsQ2l2Vm90bHFabG5nU2tZM00ybVgwV2NGTkRCeUlYLQ?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-23T20:06:33Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : Anyone’s Legend – Karmine Corp en direct",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGh3ajlVX0VibXEtQ2VpcFZxN01ROG4wa09xQTZEOVM1dERQdEx4ZDF3eUVjeURwZDZTWTR4dVE0U0ZVWDAtVjRoTF9KRE9QbDZ6c0E3cGZ6X2NYUFJiVm1zOXJqODU4UEZkVEFnLVVyU1A3eDVmNmhmOUNJeDEwQkNuYllIaVdxYUMzTk5R0gGTAUFVX3lxTE9DeWk1Ty1Yc256OEJwelVTNXRRWERnemZmanMzdkpIdWw2bGJpUU1mRGI1eEFSYzcyY1JCUXRBNFhITk5nLWNoMHd6aXhmZVA2TExUZVFtVHhpTmhfdkNrRUJOS1EyNVNfVzJiX3IyRXFzWUctLWlnbng2bEZjNV8zMG44c1E4UXY4dmQyam5tbXl4VQ?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-23T19:50:00Z",
-   "leagues": [
-    "worlds",
-    "lec"
    ]
   }
  ]
