@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T23:07:29Z",
+ "generated": "2026-10-26T01:32:30Z",
  "items": [
   {
    "t": "Worlds 2026 : Gen.G – LYON en direct",
@@ -9,6 +9,16 @@
    "leagues": [
     "worlds",
     "lck",
+    "lcs"
+   ]
+  },
+  {
+   "t": "Team Liquid vs Anyone's Legend | Worlds 2026 | 26 octobre 2026",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTdYRFVpakd1eWZOQnh6c1dOcWxVRGkxVnhuZzJUOUN3eDZ5bmFpWmhlN2NialNPaUhsSXQ2TkgxLXVOa0h4dXhzbjV6RXNfVThWaGREREtvbU1SMFRkLTBENW5PSkwxcm12OGNrWG1Ib2M5TG5GRDdxb1U1SnktRExtTEJKRWhLVTdjMDlIVjctVkZvNUJFOGxqNGdCd0MxOERCYUV6NkU5LXc?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-10-25T21:01:07Z",
+   "leagues": [
+    "worlds",
     "lcs"
    ]
   },
@@ -333,6 +343,16 @@
    ]
   },
   {
+   "t": "Dplus Kia vs T1 | Worlds 2026 | 24 octobre 2026",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVFlNUdGRWhxZEg0MGtHX2tpYXZNUEN1MTMxVnRTSEstM1hDZVZBVE9mZHVGZVFpN2FHVEpXa0loN1pjYXFJOFM2M1B5UlhZb3MtV2dIdFJHLTBYUU5uRmhFWVZXUVdpUzJjRlJ4RVhNM0Rkd0t6cHdJV0UwcVg2dU9BMk1LS1BmOV94Q3FXbzAzVFgyM05ySEdiWTdxUjlGbHA5aUtOTm1oZkE?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-10-24T06:48:05Z",
+   "leagues": [
+    "worlds",
+    "lck"
+   ]
+  },
+  {
    "t": "Worlds 2026 : la Karmine Corp et KOI font tomber les géants chinois, la LPL en 0-4…",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUJLOEpqajhwWEk5d3NveXlzc2RmV0dmeXZ3WFFvOXFNVEVZSkVfNEpDcHNWQkhsS000NEZxd3o4NGdBLU9Rc3R6SGh1QmlOamNvbFpqWWlFWW1tR2pmN25feXYySmx2Y3J4T3B2SDM2SFNocVprZzVqbzBsSDFyMnhzTURrRUZZNWZROGgxNGFMWk1kU1MyUzNMZmtoS2l4Z0RWMWZwdm1MM184VGU4THhUVU5kbGFMX3RTZg?oc=5",
    "src": "E.SPORT.FR",
@@ -380,27 +400,6 @@
    "leagues": [
     "worlds",
     "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : Team Liquid – CFO en direct",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nRkxkclV6WlZpN1BnT2llYUxyOWJ6bXd4OWhrWVdzWnoyNkpUcWJvU2lQeVNodS1NVy1sNXRUd25LUjJ5ZlBKcG5WVWU4ay13Yllla05ab1NlOS1OMHl0bExDV1o3VVFSakhBQlU2UlliRXlGTVBQMmZIcU1aQQ?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-23T21:50:00Z",
-   "leagues": [
-    "worlds",
-    "lcs"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : G2 – Dplus KIA en direct",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05cjlHRE5IQUdGQmhKblByTS1XS05OQUF4elFsUG5nRzI4cUMtZlA5LTRrb2dZRU9NRmVRZW1PaVFiMlB2NDRzRFZtUWE4S2kyRFZPZkhFa29hQWRMdVFwOFZwdTNiRWMzYUdycHZzVUFYX0RxS3BUcE1n?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-23T20:50:00Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
    ]
   }
  ]
