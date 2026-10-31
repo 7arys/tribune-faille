@@ -1,22 +1,57 @@
 {
- "generated": "2026-10-31T08:44:34Z",
+ "generated": "2026-10-31T15:13:21Z",
  "items": [
   {
-   "t": "Worlds 2026 : G2 Esports prend la porte après un lourd revers contre HLE",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KQVNweTctSGc1NFZ6Y0l1N1paVzRTYV9GazE5cVh1TE1UclFPNWJ1V1R5NzdjWmh3aDhwWHdzdnVNWEVvblZGd2lKMGlCelIyZThoTEVxR2NmakZS?oc=5",
+   "t": "Gumayusi : « Je me demande si le Swiss Stage a toujours été aussi difficile »",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS2RmcFV2WlFRMC0yS2x5bm5GZDJxQUVQeXNoRWNxVWJvVmlDbWpsdy1ia1E3TGJTYW1MU0puMEc1UTdiTmcxVktuX2ZIYUlfSHVqZkJXUDdMSVpEYXVfTkdtLTk0Y2d2dG1KV2R1ajNvcWp3Ykl2M21NRU5iLS1zYmwtd0MzdlJjaWd6cF9UdVdBNzE4M3EtbEMtYmc4T0VlY2Z1VDlYUmU0TF94UVJFVU5qQnFHT1ZiWXc?oc=5",
    "src": "Team-aAa",
-   "d": "2026-10-31T08:15:30Z",
+   "d": "2026-10-31T13:23:37Z",
+   "leagues": [
+    "worlds"
+   ]
+  },
+  {
+   "t": "« On n'imagine plus vivre ça autrement » : partout en France, les fans de la Karmine Corp se retrouvent pour suivre leur club",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaEROMHdEdGtUNXBqNUFBdzY0UXE1cUhwY1QzdU93YmgyOWZyd0RQSzIyOHg3X1p4akwwS3lkalpGb29KZE14TkktelVxYUV6aUx3YW5MXzBHdS1LbnFpMmtOYjBMZlI3NEJrVFBqT2hWMmhlR2ZBT3hLRnF0T3VyUWUzTzlsV0MtcHlPS0x2M09WMm9yLVlUWVliOC1WZ1VveHJrWllXbGRNN1o4dGVwR2p1Sk9ELTJSdmlXRmxRRFh5SHRVUUI0QkI3eTlDUVBFSFVXanRzczVWY0ZFR3dIMEdVZ2FYaHRnRVJoeUg1cklsSG1WdlgwRm53Ujg?oc=5",
+   "src": "L'Équipe",
+   "d": "2026-10-31T12:45:43Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "League of Legends, vivez la finale des Worlds 2026 gratuitement sur grand écran à Genève",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlRMeU05dUxEMk5fUmhQQXc1ZGpPdGo4WUR2ZnRCSk9OTDRkVVk1bWtQQ1BEdkpiQXNLMlVUSmJzaUQxLW9nYWZ1UXhXbGIyZWt4dDh6RkczUWpmZjVwME5vRDRuN1Y0Mm8tdktPZHd6ajhNZ2diLUhlamxaM2JMODQ0UUcyVkt1OEFFNllfaHNVNm9kSHYtOXZxT0h5c1YwS3I0aW5rQjJMM0hFVzZfY2l2Nzc4VUE?oc=5",
+   "src": "JVMag",
+   "d": "2026-10-31T12:29:56Z",
+   "leagues": [
+    "worlds"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : bilan du Round 4 et programme de l'ultime tour du Swiss Stage",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2hxSEJVYmF6d3ppNXpEb2tSOGF4blJVTG8tT0hTa2VlZjZlSFJYT2ZudWNDTlRFS29OVTlTNGtrb3N1WUpMQ1I2aUk5VTlNaUhVZnZEeFJ1QUlZdmdoMTFvU0dSYWc3dWJ3WDNlb2t3MVpKYVZUZl9xaE1TTGlXYzV6UHZ6SUVURms3a2haVFBURElvT2o2TkJ1S2FhbVZMekVid1l2LUE2TlVEem5FQTJzTWxjeG9U?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-31T12:17:45Z",
+   "leagues": [
+    "worlds"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : « Ne perds pas tes c**Illes Ibai » lâche Kameto avant le Bo3 entre la Karmine Corp et Movistar KOI",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLXprSVh3RlZpdHpMZlpUYWhadnFNTmhkSmcwemt6UGlSZkRDeFdOU2d4ZXFBeHNNLTlaWm10TkhPN2NhdFRCeThDeEo2dEtqVEhMbUVOQ0l0eWNrOWlzWTUtNWR3ZkVNTURxOG1rSlQwdHhkbkptTjJGUmxiZ01yQ013OTJMbE1sbmpEZUlsVTFUZDdVbW1SVmE3d3lha1BGSFZkZ0I4UlNUV2Faamg3UDZfTDczXzAzVFppSElsdGRZNDc5Z2FwLWkzRjR0enVaNnc5di1DWEQ1U3lDdGptUTc4Vms?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-31T08:53:14Z",
    "leagues": [
     "worlds",
-    "lec",
-    "lck"
+    "lec"
    ]
   },
   {
    "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, MKOI... et sans G2",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRYQ1B5cTdQZ1RsUDU0SHJmTUQ4MEthQ1dnZVJwSWtVbVZKMUExQXlBV0xURG0tdE8zcmdGQ0JidFV4bUFQVXpsTmctVXphdEVuZGhfUFBsbWpWaFNWMU15ZTJTVnJ1dV9vN3JBTFhEMU5fa3ZQdkJUdDQ4MWFvNWZRT0xKSEU?oc=5",
    "src": "Team-aAa",
-   "d": "2026-10-31T08:12:28Z",
+   "d": "2026-10-31T08:12:00Z",
    "leagues": [
     "worlds",
     "lec"
@@ -54,12 +89,42 @@
    ]
   },
   {
+   "t": "Worlds 2026 : G2 Esports prend la porte après un lourd revers contre HLE",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KQVNweTctSGc1NFZ6Y0l1N1paVzRTYV9GazE5cVh1TE1UclFPNWJ1V1R5NzdjWmh3aDhwWHdzdnVNWEVvblZGd2lKMGlCelIyZThoTEVxR2NmakZS?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-30T16:00:15Z",
+   "leagues": [
+    "worlds",
+    "lec",
+    "lck"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : LØS surprend Team Liquid et arrache sa qualification pour le Round 5 du Swiss Stage",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNjVhc3RvNFNmNnRENDI1VjRUWmFvaTRFRFpUOGx3dURlU0dHOGtkcm9kdllTeFg1WVYwbmpXRXNNUUV4UWVERVVBSjFkRGpxa2Ezd1BGQ00zenZJeTRUekRBZFFtV0F1M0dlUVNjN1R3SlptTmVrQzZMZ2lMeGNDX294SmUyY29ZR1dYVDhGQzI4N241REhuQjB6dWxqQk5wTUt2WVVzY2dUSVUtbzhpMkhIQ2ZZaUlYWXZmV2EydXcwek5PV2NSUmdibmhESVR4QllheEx5SQ?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-30T15:59:33Z",
+   "leagues": [
+    "worlds",
+    "lcs"
+   ]
+  },
+  {
    "t": "Worlds 2026 : les espoirs de la LCP rattrapés par la réalité du niveau mondial",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGNkdDRTbGY0ZUhiNkJkSDhUdUQ3NGpPQ1N6Q0QtMEVkdEhyX0RPTEdsQVZoMXFZejVSY251Yy1iOXIzMy1ISjIzZnJzUFYtaVRxOVIwclNYOXZYRVRTZFlzREY3akRMdDNXY1gwS2VkbFFyWGZwcXZEaV9KVGRKaU5xQWwyYkxONkJDdzdpejV5ME5pd0VfZnZvdVRKekIyUUhrTnc4RlJYUEU?oc=5",
    "src": "Team-aAa",
    "d": "2026-10-30T14:57:56Z",
    "leagues": [
     "worlds"
+   ]
+  },
+  {
+   "t": "TBD vs TBD | LCK 2026 | 8 novembre 2026",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmZGZHFndXVoZndQamJudnA5Qk5VZDhLSzZtMnRpalI5VzdJVUZHQ1BkX29nQ3ljM01YSFZPNE5kbVI3VzlMakQxWmZ0SFhldmxlaEhHWFJVTE5NazM1dVZ3YnJKa1lNQzN2QVFJLVVzWkFFWkZNeFo0a3dQbmx3WkluTk5EbHRSMEVwZzF5eDhSa3F2WFVVNjNiekVLcTlLM2k3b0xqRWd2V3pwT3VQdVhRNzdfUWl0ZGhnY0dZYUdkRHpG?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-10-30T11:00:07Z",
+   "leagues": [
+    "lck"
    ]
   },
   {
@@ -160,15 +225,6 @@
    ]
   },
   {
-   "t": "Dplus Kia Youth vs TBD | LCK 2026 | 1 novembre 2026",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGVqWjlSMHN0dk1tc041SUJySzFNUUYzT0haNVpodUZhc1pnVHg1NGk2LV9fQkJZZ3pZLVB4d1VpakpSbC11RFd4dnpmUklYUkRhNF9MbVJ5NWwwYUFIMkpKdklfNDNWOE14UnpUZDQyR1VzcWsyQ281X0VDMWVUZUVuX2hIZ0wtMWo3MkpJRVR2LWRyTzlnT3hGcHgtbzBZaTVSZ0V6eVdkTDkwOWJWMzBfRXV3anE4UUxGUlZVNm5EcFN6?oc=5",
-   "src": "Sheep Esports",
-   "d": "2026-10-29T10:59:02Z",
-   "leagues": [
-    "lck"
-   ]
-  },
-  {
    "t": "Worlds 2026 : T1 et Invictus Gaming verrouillent leur accès aux playoffs, le Round 4 continue ce soir",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdjM3VnZvZWFCNDhCb2p1WGxBWkhKZk9MOTZtVjh2TjVHQXJUcTltNlVrREdXRTFkcmE3c3BLaUJCcWtsR21qLW1YYXM4eUJlSGZSSTIyWS00Ykl4Zk9ZODhnT3RjdlhtSU1qOFQ4Qm1Cc1gyVUpGV2MtX0FjREFXOW9ISHFxVGhmYlhkS1NZUk1lN0Y2d2hfbWIxRDNJVmlkaGNONTJWaVdKTnNiRjVQMEF4NXlROHNQOUk4a3dWeUMzODJadFBTVUN6M25YZ1h4UWFQWTZoc1ZWOVU?oc=5",
    "src": "Team-aAa",
@@ -262,15 +318,6 @@
    ]
   },
   {
-   "t": "Riot could give away Fnatic Jarvan IV skin and exclusive title in tribute to Cyanide",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2ZWSnM1a0dMM2xhdzMySy1wUHlVUEhLUWRoVFEtb2Z2VnpRSGhrSzhZRVFkallJLWx1bUluSkk3ZWdRc0NQZ0tXbnl4YmFiLUE5a2Vsdmd6dmNpUlRtQU5kbHZUVkVRVnhOLTNNTUZaeTJsckVHWGdDLVRnQVhTM1c2QWZVLWdpQnB2OXQ1T01semdyaUZmTzEyY2QyYWpsa09VeDh3elR0UEx1TkdLemQtLUhzajA0eDNzSXFQcXh4QXZoUk00?oc=5",
-   "src": "Sheep Esports",
-   "d": "2026-10-28T11:08:07Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
    "t": "Mercato LoL LCK : HANJIN BRION officialise la prolongation de son cinq de départ pour 2027",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbV9NdjMtVGdyWkFiRFVaVHhxb1J4ZEoyVnZVUC1rdjBmMVNzSXdKbldIU2lTeHZabnJwWTUydFpEc09LLXliV1JieHJ1Um80cWR2dFZnWlZPczRfZEg0d2otYzNIOElxem5lV2NuX0pNTlNPQWhmbTdqTDlzTWNnSHZlMW9xVGhPXzdsM1BPZ2syc3FYTTh0TWQ2eWh1Tmt0amN2Z2VEVmd1cjl0WkRtNFhqTVNkN1BJX0JFa0FPTlM2UzRrQ0FXbW5UZ2VDUQ?oc=5",
    "src": "Team-aAa",
@@ -287,15 +334,6 @@
    "leagues": [
     "worlds",
     "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : le champion chinois de League of Legends signe un fiasco historique",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTVqQXg3MnpZdkVRb2c5VFlydG9BUUx4VG5vR25XODdpOS1nZE5BSEdxVThEMlUxdEFzbWpoRkpwbjdMWFA1N0xsM2xLVUhTbVpmM0p6clRxWTBDWkdNTHBnY0Y1ZWxvUVk0MHR3ZFE0MUVrTWphTUxDMFZZakh6UkFGbkxrNWpBUXJWREx1UkN1dUdBOGNSV0YybUFucXU3bmVtc051Zw?oc=5",
-   "src": "lebigdata.fr",
-   "d": "2026-10-27T15:06:27Z",
-   "leagues": [
-    "worlds"
    ]
   },
   {
@@ -359,45 +397,6 @@
    "leagues": [
     "worlds",
     "lec"
-   ]
-  },
-  {
-   "t": "Worlds League of Legends - Gen.G et Dplus Kia qualifiés pour les quarts de finale, AL et Team Secret Whales éliminés",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNYmpiT05WOFphX1dydFpaUVZkQnNDQzFJSjJTS283UDFyTEphOWM5RWVrdGpLQ1Q0RE5IRWxPNEN6TVEtOEF5LVNoemEtc3dyRzcxZmF1WC1mWlR6dlFmLWc0djRlNnZQenh0MDJWdndqZ2RBZk1pOHpzcTM5MU1xdWtLVHFiS1pDNy1HTGJTTDlMdWZNNHh4ckN5Y0ZwRVB2RmRuZ2dfMDUyTXdjdUZYZTAwYmlydG5TLVVaWGFuUHVOdVZXVWZweHJlR0lZZmVMWl9yNXRMTTBqd0lXY1VmcXJOSXk1UkQzSUNETm5MbG1qT0FpREpsaFd3T3ozcW9yQnNLOWxQZlltRjVXd1E0VUtGUEFIcFRLelc0?oc=5",
-   "src": "DHnet",
-   "d": "2026-10-27T01:44:00Z",
-   "leagues": [
-    "worlds",
-    "lck"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : Team Liquid – Anyone’s Legend en direct",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjhXVXc2enRZd2d4VDFGNFdqaHhjaFFtejFPQVVXSnIxc3l2YW4zSEhqd1llYkVXbnIwS3ZrUjVZSFYwMU1BaEZWd0VaV2JFUWVnM1lVQXR4WlNJcU05a2poUmtBYjZGU01fRU05UXAtaE1vNEFwd0RuR0FMNEo1eUZLcjJtLUxwVDl5bA?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-26T21:50:00Z",
-   "leagues": [
-    "worlds",
-    "lcs"
-   ]
-  },
-  {
-   "t": "Aux Worlds de League of Legends, la Karmine Corp se retrouve dos au mur",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0VBWW5Lb3hzcHE5elRMY1Z4RXZoejNCS1VIZnQtaFczdWlJRE5GTzNNWTdaazR4OGdCRmJtcEpYeXVvdndBbkZzazcxODUtZkVsUjlXYVo0dmdNT19oSHNHREp1cXJxd0g0N2RrdEJZRXNEZWNmQUllb0dybFA3MHotdGpJRVNOSk9haDJMR3pIRTVhcFR2aEZKdlpBOEFBWjdVRjdGdzJYcjU2ekdCRDdrenBaSDdpUU5j?oc=5",
-   "src": "L'Équipe",
-   "d": "2026-10-26T19:37:22Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : LOS – Secret Whales en direct",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGFCZHVXUUwyMVRUWDVtX095UzJlX25uaXo2cVBFMExTampTN3Q5TUwxdTdoNG9zY3NxWEhqWG96NWtNV29BQmU2MGFOTDNXMlRXMUJxUE9fU2Z3ZDdJdFFEZTgtcXY2aGtkaWFuYVFadHptWXIyX3pyZHdkU0Z1cg?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-26T18:50:00Z",
-   "leagues": [
-    "worlds"
    ]
   }
  ]
