@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-30T22:53:59Z",
+ "generated": "2026-10-31T02:12:15Z",
  "items": [
   {
    "t": "Worlds 2026 : le suivi du Swiss Stage avec la KC, G2 et MKOI",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVRYQ1B5cTdQZ1RsUDU0SHJmTUQ4MEthQ1dnZVJwSWtVbVZKMUExQXlBV0xURG0tdE8zcmdGQ0JidFV4bUFQVXpsTmctVXphdEVuZGhfUFBsbWpWaFNWMU15ZTJTVnJ1dV9vN3JBTFhEMU5fa3ZQdkJUdDQ4MWFvNWZRT0xKSEU?oc=5",
    "src": "Team-aAa",
-   "d": "2026-10-30T19:57:56Z",
+   "d": "2026-10-30T20:18:00Z",
    "leagues": [
     "worlds",
     "lec"
@@ -18,6 +18,15 @@
    "d": "2026-10-30T14:57:56Z",
    "leagues": [
     "worlds"
+   ]
+  },
+  {
+   "t": "TBD vs TBD | LCK 2026 | 8 novembre 2026",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmZGZHFndXVoZndQamJudnA5Qk5VZDhLSzZtMnRpalI5VzdJVUZHQ1BkX29nQ3ljM01YSFZPNE5kbVI3VzlMakQxWmZ0SFhldmxlaEhHWFJVTE5NazM1dVZ3YnJKa1lNQzN2QVFJLVVzWkFFWkZNeFo0a3dQbmx3WkluTk5EbHRSMEVwZzF5eDhSa3F2WFVVNjNiekVLcTlLM2k3b0xqRWd2V3pwT3VQdVhRNzdfUWl0ZGhnY0dZYUdkRHpG?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-10-30T11:00:07Z",
+   "leagues": [
+    "lck"
    ]
   },
   {
@@ -159,27 +168,6 @@
    ]
   },
   {
-   "t": "Worlds 2026 : Invictus Gaming – LYON en direct",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2NFNEVUUWtUYUJGSzZoSXNLS2llckpkZXhwVndLZ0lkU19sdWNhbUdYYUEwY2xCMWdyNkZ6WUNFTHl0V1JZUjlYNzNNNW8tajM1QUU4YXZDNGNRZ1o4UGVtNVdDN2pRa3BoNjBhWjJvYXNCV2ZBRWl5SjY2TjhMczl0OXM?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-28T22:45:00Z",
-   "leagues": [
-    "worlds",
-    "lcs"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : KOI – T1 en direct",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hNVE1V1BWNFE1TmtGUDNxaUpmZll1NXhnNnJJY2NHTERhVU9pamlXRnpNblFfLVNWOTg1RUZ6LWJSb1B1WjZDNzIyYWlQZWlnYmxiNGJlSVR3aS1Ed0JpdWdYLWl1Y1lmNExzMGROUmpIZw?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-28T19:45:00Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
-   ]
-  },
-  {
    "t": "Invictus Gaming prend le dessus sur LYON et retrouve les playoffs des Worlds après sept ans d'attente",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONXFRTTNpNDBhVkswQTl2RllmWTVUMEhCS3ZIcUU5eU5LUE5zdms4U3MzVmxEWXRNM2h5c1RVQWItZU90bW1RMkhIaFBQejBIMTlhUlp4dWRza2oxQmRiaXRBdzB6UVk2OWxOMW5nVW81aUhwNVB4Mi1xVG0wN0JwQXJ6QUhvam5NNEIzNFYwVnQ1SDJINFBIRzVDX2FiXzRpdXhsTm41dEtfbjBGQTFXZ0ZUZGpuZGZlRFRxaFllbk11WkVFSHE3bHJoUkh2R3N6UGN3cUpGU3BDZzNOdlE?oc=5",
    "src": "Team-aAa",
@@ -207,15 +195,6 @@
    "d": "2026-10-28T12:47:33Z",
    "leagues": [
     "worlds",
-    "lck"
-   ]
-  },
-  {
-   "t": "Mercato LoL LCK : HANJIN BRION officialise la prolongation de son cinq de départ pour 2027",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbV9NdjMtVGdyWkFiRFVaVHhxb1J4ZEoyVnZVUC1rdjBmMVNzSXdKbldIU2lTeHZabnJwWTUydFpEc09LLXliV1JieHJ1Um80cWR2dFZnWlZPczRfZEg0d2otYzNIOElxem5lV2NuX0pNTlNPQWhmbTdqTDlzTWNnSHZlMW9xVGhPXzdsM1BPZ2syc3FYTTh0TWQ2eWh1Tmt0amN2Z2VEVmd1cjl0WkRtNFhqTVNkN1BJX0JFa0FPTlM2UzRrQ0FXbW5UZ2VDUQ?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-10-28T09:27:00Z",
-   "leagues": [
     "lck"
    ]
   },
@@ -303,8 +282,8 @@
   },
   {
    "t": "Worlds League of Legends - Gen.G et Dplus Kia qualifiés pour les quarts de finale, AL et Team Secret Whales éliminés",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNYmpiT05WOFphX1dydFpaUVZkQnNDQzFJSjJTS283UDFyTEphOWM5RWVrdGpLQ1Q0RE5IRWxPNEN6TVEtOEF5LVNoemEtc3dyRzcxZmF1WC1mWlR6dlFmLWc0djRlNnZQenh0MDJWdndqZ2RBZk1pOHpzcTM5MU1xdWtLVHFiS1pDNy1HTGJTTDlMdWZNNHh4ckN5Y0ZwRVB2RmRuZ2dfMDUyTXdjdUZYZTAwYmlydG5TLVVaWGFuUHVOdVZXVWZweHJlR0lZZmVMWl9yNXRMTTBqd0lXY1VmcXJOSXk1UkQzSUNETm5MbG1qT0FpREpsaFd3T3ozcW9yQnNLOWxQZlltRjVXd1E0VUtGUEFIcFRLelc0?oc=5",
-   "src": "DHnet",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRVU5T3NqZ3BfWk9ZbU1hcjJHSWJZZ18xQkVmZXJlZGo5SzNDMkxabG5YeF9tcWFqa0t3azI1RFMtd256ZWJSWXpRS0hCN2ZuTmxqay15Yno0UTNzaXBoaTVIVXJLWDY0UlZuNVRvS0MwenkzOVJwZ1dLbS10SHA3YXhpYy1xZi05VzVMQ28xR2l1ci1qTk44NEpueXR1R0g1Wno5My02a3l4OWlldm43dHV6eXFLRTBBNkZ1UlpPX2pXWE1hTVJtWTctZ0NCNTFrekpXMDRzRkRSd1EtSmZCTkxRYmxoMkx5MTJVcXVBR0NpYy16TS1YUHZEOXBNYUJCWThiZE1LbVBxY2J3WmkzSFpOSzltVHNDLUpaSXlB?oc=5",
+   "src": "La Libre.be",
    "d": "2026-10-27T01:44:00Z",
    "leagues": [
     "worlds",
@@ -329,15 +308,6 @@
    "leagues": [
     "worlds",
     "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : LOS – Secret Whales en direct",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGFCZHVXUUwyMVRUWDVtX095UzJlX25uaXo2cVBFMExTampTN3Q5TUwxdTdoNG9zY3NxWEhqWG96NWtNV29BQmU2MGFOTDNXMlRXMUJxUE9fU2Z3ZDdJdFFEZTgtcXY2aGtkaWFuYVFadHptWXIyX3pyZHdkU0Z1cg?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-26T18:50:00Z",
-   "leagues": [
-    "worlds"
    ]
   },
   {
@@ -397,6 +367,34 @@
    "leagues": [
     "worlds",
     "lck"
+   ]
+  },
+  {
+   "t": "Mort de Cyanide, le jungler finlandais qui a offert à Fnatic le premier titre mondial de LoL",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KWFR5RmlxS0pMUFAzb1FNNDR1WUVkQnBuYTRxcGRVNlpqRkFfM2huVEVhN0djWVBkT1M3WVVXYkI3Unc1WXBHUVV0RnpJWDdXZTEwUjNnX2dfSUMtM1p4NGJWQllaQQ?oc=5",
+   "src": "GeeksLands",
+   "d": "2026-10-26T15:47:00Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "Mercato LoL LEC : 3XA signerait son retour chez SK Gaming pour la saison 2027",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWXgta2U1YVgwbklDSWVWcmUtZ2JnNXI3ak1jdE1meU9tOVQxWU9hNnZ4MGYyTjl1TXkyNHpYWl85QzBFdENVUWhHYVo1M1dzcWk5QTl5dHJjUW1uU3dLVkI2TTFTS3lESTNIUlZrZjdMbllrRFMyR29RMDFkYmFFQzBOY3hRUlZzM0RqaGdwZzVvUmYybFI4bjlNN1A0N09RZjJGdlh2QzZ4SnFMOWFwa2xiZ3BMU0xXelZjeA?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-26T15:15:00Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : la Karmine Corp s'incline contre BLG et se retrouve désormais dos au mur",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONG9FTEhZai1ZaXhLSUx6bTc3R1FOejNaTXNHNzBTVmJGNURwNTlWQnM4bjBWTndBRGVlRE9UQThjbm5pZ3FxMHR4dUo3ZEZ6cVRuRFRHVlBZZ2M0d1pQYzZqYmFPWjEtUDFKYUZnVGRMYXNUajhPYk1yOHZPaWJNdnVhd2lzNUZmQWJNOTJ5dEtLSllhMXJWaEYxTFZZX1lxMl9iQU1TajhNYmdZWmNSZ1F6LVFkbnlfVThudQ?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-26T13:44:44Z",
+   "leagues": [
+    "worlds",
+    "lec"
    ]
   }
  ]
