@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T20:24:09Z",
+ "generated": "2026-11-01T23:48:43Z",
  "items": [
   {
    "t": "« La fin d’une aventure de deux ans » : G2 va faire le ménage après les Worlds",
@@ -21,22 +21,22 @@
    ]
   },
   {
+   "t": "Karmine Corp qualifiée en quarts de finale des Worlds 2026",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTRFbXRXM3pGNHVEMVVBbl9yY21kYTFHLU9PQVMtSE54OTZzRkZGYm50MmFvOXFkQXBqZEZmWEdMQkVwUThQY3E2eHZHM2p3aDBOeXRkRXpLSHNTaGhENEZXS2hHMkp3ejRRZWctOGhubjZxQmtVa1J3T2JXRWhWLUFlcGRNSzBsckE?oc=5",
+   "src": "Urban hit",
+   "d": "2026-11-01T11:57:44Z",
+   "leagues": [
+    "worlds",
+    "lec"
+   ]
+  },
+  {
    "t": "Programme complet et présentation du Knockout Stage des Worlds 2026",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1ZadENHSzZfTmNYalY4cTdlcElEM2QxZVZGanJEREpBVU0xSDJPQ1JTSk82TUdxYnJlUTZ1Sm0wMTh5WlJod0ZWSnl5S085aGczX2EyeUxLMHVJNFI5amlFZDg4NEdZMWVSaWFkelpCME9YaWlCNE1RenNLSVNYM3NuX0JLNVQxWnhCc0xTVG1aNEFUU25Kb0kxRXluN211RWJqM2FQU1NRRU1IV3RvRDh3?oc=5",
    "src": "Team-aAa",
    "d": "2026-11-01T11:35:57Z",
    "leagues": [
     "worlds"
-   ]
-  },
-  {
-   "t": "Karmine Corp qualifiée en quarts de finale des Worlds 2026",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTRFbXRXM3pGNHVEMVVBbl9yY21kYTFHLU9PQVMtSE54OTZzRkZGYm50MmFvOXFkQXBqZEZmWEdMQkVwUThQY3E2eHZHM2p3aDBOeXRkRXpLSHNTaGhENEZXS2hHMkp3ejRRZWctOGhubjZxQmtVa1J3T2JXRWhWLUFlcGRNSzBsckE?oc=5",
-   "src": "Urban hit",
-   "d": "2026-11-01T11:13:42Z",
-   "leagues": [
-    "worlds",
-    "lec"
    ]
   },
   {
@@ -308,15 +308,6 @@
    ]
   },
   {
-   "t": "Transferts LCK 2027 : effectifs et changements de roster",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uQWZvVnhPd2VRR1BBdHYxdlEzbDkyOVp2UEo0ZTlmdG1tYWE0VC13UUZMUGhyaTR1dUwzRi02M1Z1WW05cWhGckVXWm1lQkZMUGF1OF9lV245elNfeVE?oc=5",
-   "src": "Sheep Esports",
-   "d": "2026-10-30T12:41:09Z",
-   "leagues": [
-    "lck"
-   ]
-  },
-  {
    "t": "Worlds 2026 : Top Esports rallie les quarts et la Karmine Corp reste en vie... La fin du Round 4 ce soir",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTlVvckpNMEU5QzJxNVpHNk9jdWlEQzREdFphajh6WTNvMFl0X0dEbWgxcndOTFljUDVxeGlpeWxJQVhVRVA2bURYRkVGbGdoNkV6WVdUUi1zRmY1ZXhuZXVsbXBFTlpHOENlcjZXczhVc0Q0Q2pBNUNocFVCMDVKQVdPa3NMS1dLcHVibG5pRU5sTnlfSnVUMm9QVkptRTB4TFNWS2JLUWtwTVZhUkxsSngtSzJRajZtdjZyVUlwb2RqTmdBNVZ4X3BIbU53MndpZmhWeDBHcUcwR09r?oc=5",
    "src": "Team-aAa",
@@ -392,6 +383,16 @@
    "d": "2026-10-29T16:23:28Z",
    "leagues": [
     "worlds"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : la Karmine Corp élimine CFO et rejoint le Round 5 du Swiss Stage",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGpmX2dKbnBUSk54OWdkNTc4UXZPSzhCQ0JLc0RIYjV3TlEwQkNTb2o2MGFqMnJkY3VrLTZVa3hGMUQwSzg0YmN0dnUwSEFYWmpnZ0FmaW9HOHhyTHAyTjJfZWRseWJlc0ZGaHp1akRrZTBUbDZTcEVZeU94aXdTM0xNQTMycS1HVkFkY2VTTmE1czNkZHNxYnVJbThVMmhMNFJ5eUg2SHE3dTBYbjFVNEdvRVBFeVdHVmJxX01R?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-10-29T16:23:24Z",
+   "leagues": [
+    "worlds",
+    "lec"
    ]
   }
  ]
