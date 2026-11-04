@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T15:18:10Z",
+ "generated": "2026-11-04T21:28:01Z",
  "items": [
   {
    "t": "Mercato LoL LEC : G2 Esports écarterait SkewMond de son cinq de départ pour la saison 2027",
@@ -8,17 +8,6 @@
    "d": "2026-11-04T14:25:03Z",
    "leagues": [
     "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : quand la Karmine Corp affrontera T1 et Faker ?",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHhiYmJCUlN6RUJ4aGk4NW11cHNwalpSdGtfVGRIQTI2LXlpSW1jTWpZUUdfN0hWRkgxdUt1Tk5ocFc4MGNpbkluR3hoX1o5Zm1oT25UN2dNMWxjZG1LRktMLVNIaFNvTWR4dWcyY1VXcWlCak5oMHN3dTlSZ2dqVEs0N2dNUU1Hd3RNMEJKbVJQTkdGa0o0ZHdjVWFKYnROVkdR?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-04T13:24:09Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
    ]
   },
   {
@@ -34,9 +23,29 @@
    "t": "Mercato LoL LEC : Team Heretics prolonge son troplaner Tracyn jusqu'en 2028",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3lVcUxfelladC1RXzhHYjdsTTVBNXZaNHRMOWVHUllGd21wY0dpSE8zYXVLN2t2blB3UEo3RW1helFnazZadVJ4UGZmOWo5WnFFUHc3aFRENWRKMTBNajEtRkVYUmZfTkFZLWVCQWtyQ0Ezd0tlVGtrNUVjWGwzTnZkd0hFRHF3OWJZOHFVdXBBMGh0S2VYckNtLTZWNFh1c1pGcjBFNEV6UXlsUFJzbFZQR25aMnZ3?oc=5",
    "src": "Team-aAa",
-   "d": "2026-11-04T12:39:48Z",
+   "d": "2026-11-04T12:39:00Z",
    "leagues": [
     "lec"
+   ]
+  },
+  {
+   "t": "IEM Beijing : NAVI – Falcons en direct",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oOVhYeVM2My1lWXFSNVVRM3lzWHdpTUdIS2JhYWRKN2VpMTdEZTh4blI5UmNPZHZiSFp6Rng1bTh6LUZDWGFzYTZraE93OWVGRW80WWw2WmhNUzh4ay1NOHI5VFo4TUVraHRiYUxwelFlZXJKcS00T09fRUI?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-04T09:15:00Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : quand la Karmine Corp affrontera T1 et Faker ?",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHhiYmJCUlN6RUJ4aGk4NW11cHNwalpSdGtfVGRIQTI2LXlpSW1jTWpZUUdfN0hWRkgxdUt1Tk5ocFc4MGNpbkluR3hoX1o5Zm1oT25UN2dNMWxjZG1LRktMLVNIaFNvTWR4dWcyY1VXcWlCak5oMHN3dTlSZ2dqVEs0N2dNUU1Hd3RNMEJKbVJQTkdGa0o0ZHdjVWFKYnROVkdR?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-04T08:01:57Z",
+   "leagues": [
+    "worlds",
+    "lec",
+    "lck"
    ]
   },
   {
@@ -46,6 +55,15 @@
    "d": "2026-11-04T07:00:00Z",
    "leagues": [
     "worlds"
+   ]
+  },
+  {
+   "t": "IEM Beijing : Team Liquid – BetBoom en direct",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlM1YlhLUnF0ZS1mV2pHY3YtbGJBanVUSmU0Yy1qRnFFNTdaQzE3Ni1WUDFfMWlwY0J2ZU8wejVpVEdWT0hrcktJNHJ6SGppZDlTWWE5S1VibDJsTVZnZTRLQ1hlWnBZVkswVjdxMmw1QXVxYzgtN1JWWEhob2swWU1naw?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-04T06:45:00Z",
+   "leagues": [
+    "lcs"
    ]
   },
   {
@@ -215,15 +233,6 @@
    ]
   },
   {
-   "t": "IEM Beijing : NAVI – Falcons en direct",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DaFFXU2cyT1B5Y0h4cWFGUm5FZnJqWHFGR3RGRGhQalZTRy1vaG9KNmZYQ3VVNDkzMUdrcW1jVlMxSFREUXZGXzZwODRBNENxbHlmUzNTM0JCTTQ4ZHh4VVNaU0lUVUhjSG9Gc082RVpGSThSemhuSkV3?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-11-02T09:20:00Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
    "t": "« On n’a pas su gérer la pression » : Jojopyun et Myrwn abattus après l’élimination de KOI",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV09mcUUyT0NfMlhIWWdzV25UanByTW0zUFRFTEZURndwUmdTMHFhUERUZmV2b21Oc0RqcU5YUUo3OWx6ZTdqckFSdWJtNFpKZTFUME52VkJ0THNJV1B4NDJ4eHkzTUkzUXBmOVhSY3VIeVA3RG52bTJ3bUZJVEp3d2g3TzdfR04tdkZIRlg0RzlHR3FrWnE3ZzNMNENXODlHU2RWZkdYQ052VlNYbEVLb2g0TGM0LTF6MXc?oc=5",
    "src": "E.SPORT.FR",
@@ -276,6 +285,16 @@
    "d": "2026-11-02T04:15:00Z",
    "leagues": [
     "lcs"
+   ]
+  },
+  {
+   "t": "« La fin d’une aventure de deux ans » : G2 va faire le ménage après les Worlds",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeW1hWTU0MDJIMXdNal9VcDdONG1xLVA4eDU1TUloR1pFamlBRUxNZ2p4VWR1UHFVSXMycm9HQUZPUXFsRzFOb0RxeEJ3STRCMEVMMWJ2dDhBamQ3STJsS1NhZlI2Szk1S0V6d0tnd1FCV21tazJveWFFNllQMEVjU3RUNXktbTduQllwalJrZk9fYkNjcDVxVDZOYWc0NUs2QTNHb3UwSEtRRk5ZajNDX1pjVQ?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-01T13:00:00Z",
+   "leagues": [
+    "worlds",
+    "lec"
    ]
   },
   {
@@ -358,26 +377,6 @@
    "leagues": [
     "worlds",
     "lck"
-   ]
-  },
-  {
-   "t": "League of Legends - Busio, avant le quart de la KC aux Worlds : « Notre niveau actuel est complètement fou »",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRVBZUGRiNXNma0hlbUlMZ2FCZG9KbndERkQ2OW9KTmt2QXNGSGRTdGd5ekpib29iaGZxejBWUWdrWXF5ZnlLV0lIZFFmRzQ2UVJDR0RtbzZ6UWxKTV9NQjdvMUZ6UHBPQXMwLWQya3cxNktKY0dsU0ZGTWNQU2VCUm52aUFDa3ByM1pTNVhXbExKNFF1NzhCNDl6cWZsQU5LaE51QXVsemVVMzFtQ0FOMmpoaUNNQWNzREZGNm8wV1I1Sy03RXNscGtmWDZJcHM4d1Q4alRvSmZrYk91QXRaZmU1dWpJVUk4Wm5Ybno2cmJoOVlmVXNHWkNR?oc=5",
-   "src": "L'Équipe",
-   "d": "2026-10-31T20:56:13Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "League of Legends : la Karmine Corp qualifiée en quarts de finale des Worlds",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamhjdUR6dzhZZm41Wm9NR1d2UEJxVW56QTJxeThqSHZEZWNhY0JoVWxzNG83eU1razROTTdaQUhfclpmMGpWd2paZk5Xd2xnQlZfNHhYOFFTOWY1QVYteER1akZrZk1wY3lJS0YwWTZFbEYwQjB3M0pQbTZqWm1TR3A3SFFfUDJ1S1VDbE8zVmtfdmtiTW1FWTBqRGhQWVJxNUNzNFd1eU1PdEFqbDdXUVoxRENUZmRBTUhuNElMaDU?oc=5",
-   "src": "L'Équipe",
-   "d": "2026-10-31T19:33:04Z",
-   "leagues": [
-    "worlds",
-    "lec"
    ]
   }
  ]
