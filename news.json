@@ -1,15 +1,43 @@
 {
- "generated": "2026-11-05T09:17:11Z",
+ "generated": "2026-11-05T17:35:26Z",
  "items": [
   {
-   "t": "Worlds 2026 : Gen.G écrase LYON et file en demi-finale",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmxBZXoyYnhPNHFtZFRBUGhyMjVWdmN5R2otMlFxN3h5S2lsSjVJamJfbFlVRG1tOW1TNTg3VkMwN215aXR3bTB0UTQzR0dxbHhfc1p6d2NzbDhlRkdvRHZPSXNGdVVZYlR3MUpjSHNpMVJwQTVoMWoyZ0JCOV9RU091VGRMaDFuQ2U2S0FJMHkxbVJ0MWR6SWhJQTAyZw?oc=5",
+   "t": "Mercato LoL LEC : G2 Esports aurait formulé une nouvelle offre pour prolonger Labrov, Fnatic et NAVI sur le coup",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY3hqVmp2VkRlbm5PNXprMGx5dlV6SlJOYzZqdGVOUFRfa3F0Vjk1dExpNUtQNmlBR2ppcU1QSG11cGNWRUN0MVZaZU80YmlIWDdsUURubDUwUEhVS2xWZUJmUFVvSFZJMUhfZXhNRGdHbWlMcXk4ZHZpSzl3dE92ZUxQVnFRX0NiMkJZdUxNOGl5NThIM2ljcl83OWxfdVdkMWM0aE5pWkhDd0VfcEJMX0w5dm5GTG53NmZ1b2RCV2xWcUxIa3lpUnhMWnZYVDhnX1FGOFlmNE12UHpmRW82dXF4VGxGcjlrWVE?oc=5",
    "src": "Team-aAa",
-   "d": "2026-11-05T08:11:48Z",
+   "d": "2026-11-05T16:39:28Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : Gen.G balaie LYON 3-0 et file en demie face à IG",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVcxSnljbGVfRVlBWEZfRmFhdkw3MlBGVXIxM2t0bUx1a29YdXg3Rmh1T3NiY2tTTFpKdVpYSG9RODFFLUYwZGhVUXd6Q2o1ZlZSYjVJTUJ5X2RLRE5zdFM4TjFsalBSUDNoRTNYZ21mdDF5ZDRWY09wbEx5NzVMd0VZbDc3UmVLdjNlb2d5LTlab0pmWi1NNmln?oc=5",
+   "src": "games.gg",
+   "d": "2026-11-05T16:37:10Z",
    "leagues": [
     "worlds",
     "lck",
     "lcs"
+   ]
+  },
+  {
+   "t": "G2 Esports met fin au contrat de son Head Coach Perkz après ses propos controversés",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0pNR2Q5andBVi1NM2JxVWdEb0VRMHA5YVV0THNGcW8xNGlxb0R6Vm9haG9HbXVqQjJWOHR2VGFDOWI1aVR1MU9fZGdieXdBMmlqRUl1WjBtckZWMUxfWTh2QlFkbm1XUUx4ZS1XTktZY2h6a1d5YkRVbkE2MktuREZRSl9XZUVSM0lFaS16SmtFai1sbW9ON2QxNTZ3MzJTaGFDSW8zRUt0TDRjU19odzF2WTZ3OXlMVWNPMEFrMVFiQ1B2YXFr?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-05T14:03:22Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "À l'aube du mercato, Perkz dresse un constat amer sur G2 Esports après des Worlds ratés et se projette sur 2027",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcHhGOGlQakNaUHdlSHI4bE9LLXdRcXEwUGZkODQzSTA1aURzcldZSGhYZFZPdU4zWXQxeEhOVzdaSXhWRGJuVzZyQXpvT194cXNTd01IMXhqRUFZWE43NlBPdkZGYkZ6Ni1jdllieDVMaUpzNDlXa3FMNkdvTi1YMmxCZFBZeF80Y0NERlVlSlR1TmlTVEEtaUpKUWtpdzhfZktNOHlrU3ZwUlJ4TkdDQmpEX000MW9ueWtmZm5Vc1hSVXZVWUQ0YkdSUHl3dm1sZjZOcG8teGEybXV6Mnc0Wk02clhDdFJSdWc?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-05T08:54:55Z",
+   "leagues": [
+    "worlds",
+    "lec"
    ]
   },
   {
@@ -64,10 +92,30 @@
    ]
   },
   {
+   "t": "Worlds 2026 : Gen.G écrase LYON et file en demi-finale",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmxBZXoyYnhPNHFtZFRBUGhyMjVWdmN5R2otMlFxN3h5S2lsSjVJamJfbFlVRG1tOW1TNTg3VkMwN215aXR3bTB0UTQzR0dxbHhfc1p6d2NzbDhlRkdvRHZPSXNGdVVZYlR3MUpjSHNpMVJwQTVoMWoyZ0JCOV9RU091VGRMaDFuQ2U2S0FJMHkxbVJ0MWR6SWhJQTAyZw?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-04T17:20:19Z",
+   "leagues": [
+    "worlds",
+    "lck",
+    "lcs"
+   ]
+  },
+  {
    "t": "Mercato LoL LEC : G2 Esports écarterait SkewMond de son cinq de départ pour la saison 2027",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVNYM0I5ck5fMDhid1BhaHZSN25pdXFPbk5KZU43SEExT2VGaHNzZmVmcVVNQUNPTXN4R3BsSmpZZEpPbThjNmZqY0V4YWVhLTdFRUJTTG5uLWd6bGg0STI5YkVhOUJuMG4tSnc1dkZabmdpWTYwRVZtOXBHeFFMRFgxNTYyeWNIb0lsLWtIQmNUa01aWl9tMW9XVjNuV2Y4QmdCcklOT3phend1Ty13TXE5WG5GRFpTYklHMmxacFFVRkI0NzNVYTJoeVozT2J1Tk9Z?oc=5",
    "src": "Team-aAa",
    "d": "2026-11-04T14:25:03Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "Mercato LoL LEC : le recrutement de Pad chez G2 Esports comme coach stratégique semble se préciser",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMk9TYnFQbktSSUtGMEVBWUdvbDdrN2lzdERaLVk5ZkM5dmxOOWJOU2tPMTVOZHZGU0ZzT0pWa0l2aERVTXZwVVJRSlU2MVQtMWZHM19RWkYyZDgtWTB1R0RhN3gzZVk3dm1sQndvSGk3a1JtZkM3MThMT0NXTTdBS1ljem5TVURyRWZrMVZGTXM1Yjh6MEplSTlVc1loMEFGZl9nRVFjMnN2TUd3Yk15T253bkVMay1FMXJPUW53UzQzTFR5aXJZU2JzSzZXajczbmZjM01VTWw?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-04T13:12:14Z",
    "leagues": [
     "lec"
    ]
@@ -133,15 +181,6 @@
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQV2hkanJ5YkJVcnRkWWRaYTdJWGI5Z1VOSW9RdDVmWm5maHRJM2t6bnQ0NEFTT2lab0JkSjNENi1uaXpIUjBCb0JRX3VKQ0gwSEdNRHhEZ3AtNl9OMkpwWE84Z1VXSkQ5N3lLODJNMW1tbEJNRGlJZkoxMlVQUFAxUk43aGlvQm9PRnNfQnMwREF3UlkyZ0p4aTFfYWNIcXJBOF91XzQxSG85RkNncldZVnI1aWFHT0J3YVlENlRJUHpmOE1qcmZzdGEwNEZtb0luQ0E2OGkxcVEtUV95aFJBU2xjb1lpajNjVklrV0VWU19HOTVPeTFDRVpsUFZUUUdUQ3c3TkY1QW9HblpSdVVv?oc=5",
    "src": "La Libre.be",
    "d": "2026-11-04T04:06:00Z",
-   "leagues": [
-    "worlds"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : le suivi des playoffs - Page 4",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGVrS01hQkJadDc4c1FMZXFUQXNKSkJ2a0FnQjBiY1ZJLWtYRzhXakY3ZmFDaDdmbkZRc2R0QVpKYTBtLWlZRUh2QVU4S3R2LWl3QXY4NGJ4d0VWZHF1cE1NSHVhV3N6UWp5UnpLVERKeTNONGNXeE5wcllWYnNTZlhDMENIczg?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-03T22:18:00Z",
    "leagues": [
     "worlds"
    ]
@@ -323,64 +362,21 @@
    ]
   },
   {
-   "t": "« La fin d’une aventure de deux ans » : G2 va faire le ménage après les Worlds",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeW1hWTU0MDJIMXdNal9VcDdONG1xLVA4eDU1TUloR1pFamlBRUxNZ2p4VWR1UHFVSXMycm9HQUZPUXFsRzFOb0RxeEJ3STRCMEVMMWJ2dDhBamQ3STJsS1NhZlI2Szk1S0V6d0tnd1FCV21tazJveWFFNllQMEVjU3RUNXktbTduQllwalJrZk9fYkNjcDVxVDZOYWc0NUs2QTNHb3UwSEtRRk5ZajNDX1pjVQ?oc=5",
+   "t": "IEM Beijing : G2 – PARIVISION en direct",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxa29ESlliaDBpQmxYOW1hbHBFbndROERsVHpEd29BRW90OUR0Q2l4SHp0WTJ3OEx3Q1RTRXVmTmpZU2xTeV9yRE9TSDBZdllYMGhYMnNaZzgta3Zvbi1yVHZoemtraWtKMC1EWTViTmZaSlZUUXhTOG1WRQ?oc=5",
    "src": "E.SPORT.FR",
-   "d": "2026-11-01T13:00:00Z",
+   "d": "2026-11-02T04:20:00Z",
    "leagues": [
-    "worlds",
     "lec"
    ]
   },
   {
-   "t": "Jojopyun : « Je suis déçu de moi-même, j'ai vraiment mal joué durant ces Worlds »",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmFnTTUxQm9FOFg2QTI0TmVSOWdWb3dGejlrVWN4XzQ1VWZCaUFpVGFDUFd4MUY2clNQYXFqWjJjaWxOUlU0RnpLQVMyNkx1NXA5NENNX1U0UXFrS0p4b3Fka3RvQ0k5NU8ybXVCMFFCUk12VUF4UWUwMnBySXpwOUxIMU9SMWxNdlBfWk9QX2tZVUExZ1RhbFBsTDJHbmlPejFNVTZVNFl4VjdQXzczZURJZE01Z1J3Z0E?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-01T12:26:36Z",
-   "leagues": [
-    "worlds"
-   ]
-  },
-  {
-   "t": "Karmine Corp qualifiée en quarts de finale des Worlds 2026",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTRFbXRXM3pGNHVEMVVBbl9yY21kYTFHLU9PQVMtSE54OTZzRkZGYm50MmFvOXFkQXBqZEZmWEdMQkVwUThQY3E2eHZHM2p3aDBOeXRkRXpLSHNTaGhENEZXS2hHMkp3ejRRZWctOGhubjZxQmtVa1J3T2JXRWhWLUFlcGRNSzBsckE?oc=5",
-   "src": "Urban hit",
-   "d": "2026-11-01T11:57:44Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : HLE et MKOI éliminés, la KC en quarts... Fin du Swiss Stage avec les qualifiés du Round 5",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQTIxTnA1dGVPelJ5WjFFWmtTN3pNU25aTzJ1VXJoS0RXRnlISjVRdXhEVHRubmZ0d05GN1E2ZGxMSmR0dENqYkhtR1J0ekJXTVJhdmUtTWp5el9Vc1RzUTRxR0RfR25EUmFQMHlpZ1JZelhCZzR6bTlnU1lBUi1mRWZzN3FNblVKTVcwWEFLcGd6SGEyYU1EdXZHZUpWTlFlczJnajZtMXg1N1ROdXpGM1BzQkJNd0cwQWJ1V201aHpSZHp2LUpOellTNUJiWFV5cTlxa1N1N29Edw?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-01T10:51:35Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : la Karmine Corp en quarts, BLG élimine HLE... le Swiss Stage a livré son verdict",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0IxZHhXQlJWZ25TX2k4TTg3ZmlzYkVZdFJGamVQWDVmRUFjQzdCNl95YldsRDM1QUtNcjc3SUdtSm16Snc0NFBwelBZV3UtaG1RQ3J2cTVaUXUwVlhIY0s4anlBTDVQNzl1ZlpWOVgwS2RIRWwzcEtTWWpLaXk5Rmh5UDJJVENyZ0RGZ3VNUU1Cd1RmQjg1NlczLUlxRnpheG5SZjZvSlRSTUNfanpqM3Y1VEpoajRKUXZkYU9fcTdlSGl3dENFYg?oc=5",
+   "t": "IEM Beijing : Aurora – Team Liquid en direct",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2FIR21ieHRxTFh5TVQ3NXUtMERHZUcxWk41WS1HOGxoOFNqLTBINUFsWURMeUVUeDRLRHgyWndZQXZacjN5ckN0aW5Qa2ttSDQ2WXVyXzhzQ2gtcmE4REJwNThYS1ZBVDJyN2N6ZmUtUnFReVFRX1diT0Q1aFBmbDFR?oc=5",
    "src": "E.SPORT.FR",
-   "d": "2026-11-01T07:00:00Z",
+   "d": "2026-11-02T04:15:00Z",
    "leagues": [
-    "worlds",
-    "lec",
-    "lck"
-   ]
-  },
-  {
-   "t": "Karmine Corp qualifiée en quarts de finale des Worlds 2026 de League of Legends",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWFXb19OUk9UejkwZHFjX1oyZGRCTkpZUGUzZHJpQjh4QXA4dHd6YXR1SkNld0oyZXJQWnRCRGZfZ2lXRnNHc3ItLU1COTdGcWoyZG11aXp0UEVzd3NJVXlVbUZTaV8xYmlBWjl5UDBfUGtqSThHU0tYVFpmYnFrQ0dFMVBQaXZ4ZzA4ZWxkQ2J1MGZCbEdz?oc=5",
-   "src": "MCE TV",
-   "d": "2026-11-01T06:02:57Z",
-   "leagues": [
-    "worlds",
-    "lec"
+    "lcs"
    ]
   }
  ]
