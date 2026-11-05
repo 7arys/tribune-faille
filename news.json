@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-04T21:28:01Z",
+ "generated": "2026-11-05T01:43:20Z",
  "items": [
+  {
+   "t": "Worlds 2026 : Gen.G – LYON en direct",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IeDBrQW5yakhyMTRtcnp5N2dqc0ZreTlSSVlFTFNJTVdwTDBpM0JZUVNXR1dGRGF0dFpuazdxT3hhWTZSc1hHZ0VraWR3aUlYSEpTVU5JZDRmTmpHbTNCOGp0cDIyQzdLYUNPQ0liWXVsc0M4QkJEMnlR?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-04T21:45:00Z",
+   "leagues": [
+    "worlds",
+    "lck",
+    "lcs"
+   ]
+  },
+  {
+   "t": "Coupe de France Slash : le Jour 3 en direct avec M8, KC et Vitality",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUVlV1N1eFY0M2oxd2FNZFZQMU5oVUpPUXhYZDEwVW83dHJjdzRyeG5KdVNSalcteDFTUkNPOGdzM2JTU19iVnFRcktkTDZ1TjNVWGt4UUZXOGlleGpENDhXWlY3ay1MdVM0eXRBbjhjSDFUUlNONm1sbGZ5UG1OSnMyU2RkbmRVWmRwNjFweEN5LWhYSV9kaUcyYWNuWVlkVWc?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-04T18:15:00Z",
+   "leagues": [
+    "lec"
+   ]
+  },
   {
    "t": "Mercato LoL LEC : G2 Esports écarterait SkewMond de son cinq de départ pour la saison 2027",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVNYM0I5ck5fMDhid1BhaHZSN25pdXFPbk5KZU43SEExT2VGaHNzZmVmcVVNQUNPTXN4R3BsSmpZZEpPbThjNmZqY0V4YWVhLTdFRUJTTG5uLWd6bGg0STI5YkVhOUJuMG4tSnc1dkZabmdpWTYwRVZtOXBHeFFMRFgxNTYyeWNIb0lsLWtIQmNUa01aWl9tMW9XVjNuV2Y4QmdCcklOT3phend1Ty13TXE5WG5GRFpTYklHMmxacFFVRkI0NzNVYTJoeVozT2J1Tk9Z?oc=5",
@@ -356,27 +376,6 @@
    "leagues": [
     "worlds",
     "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : le tirage des quarts de finale avec Karmine Corp – T1",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXV2WVIzYkdXb0l3VTZNTklDZlFoSUkxVjViejAyalpJWWMzVXJpa0ZaVWtPQ28xR2EtaHRlLVVyZ0phWU5ibUxTMkdQZlRkNF93VVg0bnJubmNqTjZlR1FGVEFDSEkzQlJxUGdSQWM1R1JsbGQ0TTlGY3pjR0tpWXppRnhxV0p1VW8xNDVqVVJUYm9pMU5xSzRpNVQ4WFh6?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-11-01T00:00:00Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : Hanwha Life – Bilibili Gaming en direct",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDAyUGhIcUZ1YlJiLTJKdjktZ0hVVUZ2TzdlR1lqTW1nRzNzMmJYQUd5UWs3cnRtMFFSSjh5M0lsU1pBMmEwWmtGak5YUTZiQUczT3N1ZUJUOFhHQ092cXJIZlAzV1gwMngzSDd0WG9pdHVsWHY5WnJQa2c0R0FrbDBjOWdnWktDLTFkYzln?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-10-31T22:45:00Z",
-   "leagues": [
-    "worlds",
-    "lck"
    ]
   }
  ]
