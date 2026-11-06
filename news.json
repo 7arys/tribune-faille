@@ -1,10 +1,61 @@
 {
- "generated": "2026-11-06T03:19:42Z",
+ "generated": "2026-11-06T11:24:21Z",
  "items": [
   {
+   "t": "Mercato LoL LEC : le renvoi de Perkz ne remettrait pas en cause l'arrivée de Lyncas chez G2 Esports",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1pqaHBTS3p5M2MycDU4OWE0OGxBTlY0Zm8zT0s5b0tBQnU4MjJfMVNlbGtwX0VpNWxpOXdCTktjTDVuTFpjdXdNaWZuZTZpeXU5aXhmR2VCanVfbnJQcFhCdnZITDFObG01LS1yWmNyaVhLZnVPY3JJVU1MYlM5aHVNX0JBOC1MRlU5VFBEcHAxS1lMS0lPdjNDY05SZkpfQzFUbFlPalgwaVNOTjMzdVF0Y3pFWFA3eXR2N1FkM0s4Zw?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-06T11:11:28Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "League of Legends : pourquoi le Karmine Corp - T1 en quarts des Mondiaux est-il un rendez-vous immanquable ?",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRzdkbXFUcjA3R3Fva0FJNkcycDN5MGtIR2pEdjF2UXdzUnhFdGRNdFJiT1kwNWZtaEdmamFTUkVGNWtjMjVPbFVLSHpGZVExNUlycjFoSHF1V0FCSjZCSTFnY0gtWERNUkNaYWZtT3kwZmc5ZG8wU3FodUJUSHNFOTZNRGxXRGo3ZWp3TTF0ZHBDU3UwRmhxVS1mTllKSVphLXdVT2lZMWptMm5YRFY4MHFTUS0wcG5aeHVWVndrZFN3ME1Vd2VRUjJGSzRjQjctRExDYjJJdzVhTE80WF82R2Z1MGYtZw?oc=5",
+   "src": "L'Équipe",
+   "d": "2026-11-06T11:00:00Z",
+   "leagues": [
+    "lec",
+    "lck"
+   ]
+  },
+  {
+   "t": "KC contre T1 aux Worlds 2026 : la Karmine Corp a déjà fait tomber Faker cet été",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUEVoQ3VncW1rOXc3VXFhbXNwRTJGWEpMQzlVSktRcnpEandRSkVnNGJrU2tkX25EUV9HTUtibXRIYzVzWGdkaWZOc2liZ1ZTRmZiQ2ZsUzJlUlBETWQ4bHpLNG1yZVVrYTA5RjBMbw?oc=5",
+   "src": "GeeksLands",
+   "d": "2026-11-06T11:00:00Z",
+   "leagues": [
+    "worlds",
+    "lec",
+    "lck"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : la Karmine Corp face à T1, le choc de tous les espoirs",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2pwSnZTaXFXT3BCdGlvckFwdE8yeU9vVkt6eGoyU0NrclBnUHJ5ODlkOXV4ekR0WE82SXM0THdyZ1hwWmUtZjlJT1VsZGh4WkJ0QXRtNTB3UVhpNnZkV21ZMjRGbHk1RC1yNFIzTnFSSTNkdWc5SWVBUlU4ajg4blZYMXJKSVZQNVdIbm14VVBSaU8zZGozVUJhQm9UNGlZWkk0?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-06T11:00:00Z",
+   "leagues": [
+    "worlds",
+    "lec",
+    "lck"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : Bilibili Gaming écrase Dplus KIA et poursuit son massacre de la LCK",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUZfQXBXMTFodm5YaE1JcWJiek44d2tOaHNkX0E1Ul9TWWVXbVJyX1plaG5rckEwOVNQZGdtVENJTEd2Z2szWTl3Rm1heGhWX1RyVE1pVWdwb2JaR0t4MWJvUjZaLXNRTm8tb0M4T2J2QW9MajZ5cUExbEhOZDJxRFpubmY2MUtMaHhrX09MYTJYTXpCVXBhZXRKRE5jaG5Xb0hBbF9Ca3praVJhd3l6QnZWXzYxVkc3d0xhSA?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-06T07:00:00Z",
+   "leagues": [
+    "worlds",
+    "lck"
+   ]
+  },
+  {
    "t": "Worlds League of Legends - BLG balaye DK et avance en demi-finale des Worlds",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekZ1TVExTWNPZEtSaDBCcjBxbDVrRXZuOEFqblJ3ZTBCMWhfTmh4X2t1WFBIa0JmOVZSNEtQeEFkNW1RbThSV1U4UVRFMF9xV1lEU1Z5R1lqWXVSem5OWDBTZk5sT2J0eERqWmJvZldzTlVvTzVES1dhRUllSVBTYzNiVERIUGJGc1pxMng0N0ZZR3dleFZiakpieExveWtDMkVaNUg1OWVFbVRLS0lhS05qU1ZNNl9XU0ZxcUcxV0RqZUFBZXAyVUZBVF8ySFlJcHRtZDFuZUxDbUp2LUhJT0lBVm9ReThU?oc=5",
-   "src": "DHnet",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRUZodUF4cmUxdXBOOFdtUEFKdTdRWDhpSjJYYUdEUXVmQkEyUE0taXJxWUgtX0VkcG1NWXA1b2ZWS0JnVVZYd2lKVkZxcHJwZERDWWtwSV92LVAwSWJMbHZCcFp6NFJ6S3pVYjhFczN4N2tSdmxqbzdscGpFajllVDBSZFl5SlE2YnRManFrUmdhanRXNUQ4V0UtajBKZ0kyaU9UeXhVZXhVV3FWeHpwejZUVmZXVmo4b2xDdDVFcXlDS0pyaDg1dldaODdCTnNSNGQ3WUYtT2pXNm9sMlV0NFRjOWJKeUh3Sk9F?oc=5",
+   "src": "La Libre.be",
    "d": "2026-11-06T01:24:00Z",
    "leagues": [
     "worlds",
@@ -37,6 +88,16 @@
    "d": "2026-11-05T17:43:53Z",
    "leagues": [
     "lec"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : Bilibili Gaming détruit Dplus KIA et file en demi-finale",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjA4Y3VOdXNRTDV2WXZwNEI5aUtMemVad3F6aE01Q0VDbFZ6aDR1MFVTdkF3T21BUEdxdmhrWlZGNnZsa2huOXFldWJwUUw0YXl5WWwzN3gwVnl3NW00WE9laDhqRzQxSS1aWTVqZmU1elYyWUdrekdnczg2enBXdXJ0ekExRFRXc3pZWXozWUd1VmhZSkdNdFF3M2ZGXzVIRHQwMUJGVTZhNWVrd05PYWxUdw?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-05T17:23:44Z",
+   "leagues": [
+    "worlds",
+    "lck"
    ]
   },
   {
@@ -100,8 +161,8 @@
   },
   {
    "t": "Worlds League of Legends - Gen.G oblitère LYON et se qualifie pour les demi-finales des Worlds",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR0dUZVpVT3NNNWlVSVNqVlhKcmtrSm1UemFCNUYydGhXSFpwR3Q5QXdSV1FkeVdaVWVHMnFqRERST2h5Wlc2ay1FNGpKUlluVFNvNkNpNU1lTThaMWt2OF9hOTFBME1zcldUZ3lPT3gxSTNDUldfT2xhWjJhOWRCQU1USWdfSTh3TzdjTjdRQ0lWbTV4TWpRVENTdklUUTdRaUQ3ekx3ZkhIN2tmdDBScDl4RUJpMFdZdXFRMGlCU1pPbDR1UnEwNjY1WTZSTmpzcXFCUThLeEdkZGpZaDdNeWphVjZPSnFDaW1YOHN5b1lmRzhPQlRNQ1otOGhGN2x2T3c?oc=5",
-   "src": "La Libre.be",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMmx0S1gyNGpQSWRmLXB4WDdvam02VE9KWlA5a1Azc0dFYmFXYmJGM2xCYWF1Uno2cHY5djVqelpVS2FlakMybGJ6UnJXYW10VFpRelprSzJSS2NnWExqUHBIbnVfdXFkbmE4YnFwM0xSemdQRGx0d0lKZTQ1YzdxczVPQnY5LXlwZDZEMlB6QTM2RXFvUEVYRkJyLVROREZjaVoxQlVHVXR1T0stXzYzaDJuZk1acFprS1dGVk5iZWVDVG93bHJIMzFkTXJPSWhMTzBxbDllVUl6SkkxRm8yYUNsWVpDR0J6MkM4VGFab0xNeloxQ3FPbnd1LUVXX2M?oc=5",
+   "src": "DHnet",
    "d": "2026-11-05T01:55:00Z",
    "leagues": [
     "worlds",
@@ -159,28 +220,10 @@
    ]
   },
   {
-   "t": "Toyz, vainqueur des Worlds 2012, libéré de prison et expulsé de Taïwan",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHBzcThZWjEwaEZ3Y3ZQTEcwV2JiRldQb3M4QzZlbUphWkhROGZuZlR0Ykc2WkJwcmdIYkpSZHU5bkpwTzFyS2QwcmEtQjlkcTJsU0MwVGJkNUJ4NmJVWW9oc2N2Z05ya0pLZ2hRQmctRmZBU1VqMVBvMkNSY1FtVDZSaFVyQmltc1JrSnZxeUNEUlRyUzdKSzgzbW5laG9oVVAydm00Zw?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-11-04T13:00:00Z",
-   "leagues": [
-    "worlds"
-   ]
-  },
-  {
    "t": "Mercato LoL LEC : Team Heretics prolonge son troplaner Tracyn jusqu'en 2028",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3lVcUxfelladC1RXzhHYjdsTTVBNXZaNHRMOWVHUllGd21wY0dpSE8zYXVLN2t2blB3UEo3RW1helFnazZadVJ4UGZmOWo5WnFFUHc3aFRENWRKMTBNajEtRkVYUmZfTkFZLWVCQWtyQ0Ezd0tlVGtrNUVjWGwzTnZkd0hFRHF3OWJZOHFVdXBBMGh0S2VYckNtLTZWNFh1c1pGcjBFNEV6UXlsUFJzbFZQR25aMnZ3?oc=5",
    "src": "Team-aAa",
    "d": "2026-11-04T12:39:00Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "IEM Beijing : NAVI – Falcons en direct",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oOVhYeVM2My1lWXFSNVVRM3lzWHdpTUdIS2JhYWRKN2VpMTdEZTh4blI5UmNPZHZiSFp6Rng1bTh6LUZDWGFzYTZraE93OWVGRW80WWw2WmhNUzh4ay1NOHI5VFo4TUVraHRiYUxwelFlZXJKcS00T09fRUI?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-11-04T09:15:00Z",
    "leagues": [
     "lec"
    ]
@@ -224,15 +267,6 @@
    ]
   },
   {
-   "t": "Gen.G Scholars vs HANJIN BRION Academy 2–0 | LCK 2026",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM0ZmZFNtanhtbklBb0RDdUs4MDlTOUxQY0RKeE9JRE9EbVJKTGV6Yzl0a0o1eDhXSTRpOGVrdXNja3QxNGFIOWpzdlFDNGpFMWRnT3d4aXF0VUlNaHpIb0VqWDhzUzdkeGxCZkRHTmhuRlAtd2ozQWNDNFM1OXFJRG9QeWxNSDJxaUxzMkkyaTcxLUdGd3Y5dHFad1hkV3FOY1RGWFRwWktPejZKOVMyNUI5ZXA?oc=5",
-   "src": "Sheep Esports",
-   "d": "2026-11-04T04:01:54Z",
-   "leagues": [
-    "lck"
-   ]
-  },
-  {
    "t": "Worlds 2026 : Top Esports – Invictus Gaming en direct",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTg4bjZVTVdUc3I1NVNxSEZWNWY2eFBaLWVIOWJfbkR4TS1hMVZESFlaUFljeXlobDhPYWRGQkF5dURKU3lvOGpXcGNNTWstVUZLV3ZDWXYwQXc4Z0RTZEZkaUNkRGdQMk9NR3JwQ3V4SXA1WTVfeVU5WG1IZDI5MjZONVc4T2JpMlBmT3NB?oc=5",
    "src": "E.SPORT.FR",
@@ -248,6 +282,16 @@
    "d": "2026-11-03T19:22:07Z",
    "leagues": [
     "worlds"
+   ]
+  },
+  {
+   "t": "Faker et T1, vraiment intouchables aux Worlds ?",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYjFtVzI5YVN2M3pnenJQZFhtT0tSc1VGLVNheWhpRjRYMlBhN1JpMmdNeU9rVTdiVmtqNEo0bUwzSXFkR3ZRaVFGZFE0cUFwOWF1VVdzaC1WWkFtVkRLakhYZ1QyNHVfbVRPYW1jQlUyWVpUdjZIYy1RWXNsS3Blb3JRQ1ZqY2c?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-03T19:00:00Z",
+   "leagues": [
+    "worlds",
+    "lck"
    ]
   },
   {
@@ -338,45 +382,6 @@
    "d": "2026-11-02T15:00:00Z",
    "leagues": [
     "worlds"
-   ]
-  },
-  {
-   "t": "Karmine Corp aux Worlds 2026 : un quart de finale historique face à T1",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWl9kVVdLcHBVOGFXb2JrR1BMTGxvY0hBM2VRdmpzXzVIYkNCOUtIY1lwNDRxOGtJcmFVQUo4NUFpY20zd2pNOVlXdVRHYUwtQmJyVlBseXU0NnNmY3NxWGdPU0NPT09LckJTZUpyY0wtZ1lsLTBfSkxVUWM5cTlSd0kzZ3E?oc=5",
-   "src": "ActuStream",
-   "d": "2026-11-02T11:14:42Z",
-   "leagues": [
-    "worlds",
-    "lec",
-    "lck"
-   ]
-  },
-  {
-   "t": "Esport - League of Legends : La Karmine Corp en quarts de finale des Worlds : Sports - Orange",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd1pNVDRrLUs4NzVxX0hxX2ZKTkhGeWQtVHVacE9abWdheHBqay1IZTNmMHE4RWpIN1VpMjAwcHRtc21qNjZrMDJCTGhkMEFIVWNSWjFxRy1OZWIxdVhlODU4T2hRU0JOaG9xbTZKRmtVTm5LN3BldUpJS2FMREJDMmZjQ0hWYkNDVlpsTTAxX0Q0c2pncnQ2NHRudzdNbHdkSHhFOUJPbXBCS3NuMnZfYTJqX0F0OWlWZDRVTDdaOU1FUUZqYmxhSmJuUnozTkR4Ny04VXViNUIzeWRq0gHbAUFVX3lxTE1HLXlTV2hoUkRKZGEzVGhhQ0tFT2VuTjVjbEdCTk93WkZMV3pjMjVlLXE0RzFGYVVwa2hPUFpOaUdHSUhpZF8za1B4a2tjNHVITS1LSVc0YmZ3X2YwLUlJRWs3bzJXS3JSeEZ3dFlZaGJGamY2bFFsX05GeWVJMk11bGJOWGVqOElTX0QwS2Q2aXlTZGVVdTg2YzUxc2pFakp6bU1Ob21MS1FmOEE1alpGelJTeWRZdXpDVjItTDVtTmV0WE1HbFdqbFZ2UnpDODlUbWMycnlRSEExWQ?oc=5",
-   "src": "Sports - Orange",
-   "d": "2026-11-02T10:30:00Z",
-   "leagues": [
-    "worlds",
-    "lec"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : G2 Esports envisagerait un changement sur sa toplane, et ciblerait Naak Nako à la place de BrokenBlade",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeHc4NGRIUVNBNWZhbjJtd3NjOFlvRGxyMXNwek9udmFNMHl1S3BIWHdCTzZKQmxueGg1MVowM3kxN193RXk4MUltd1cwQmRadDk5TElVM1B1V3JGaWR4dDV4SXVFS1JMRy12bGVZTGx6ZVdPT1lac0xFOUxGaUdNOHlOZ0ZaRk5TYWd2VlpURDFJU2FyOXg0LVdrY0k4TE5jM2xQd3BjcGlpSE9YNkR6bkp2YWlpdmp1ek1JMGcwczZPNWxDUjBXRUZHcmxxak5ZMWh6R0RqbUlpQjZZNHlJMTMtTlgwNlE4RnBvekVuc0h5Nm1B?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-02T09:55:41Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : Team Heretics conserverait Hype comme botlaner pour la saison 2027",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEV3NTB3OVZPOWY1YU1GQkdPWG1xSnhHb0U0U29zME53c0tFTVotM0xyekxqbF9BbFh1VWRGOXJ4NHplS2xsMGFWMHFrUzdCNk11UkU2cGJEcjBMSmNndUxQRURJdUtFczR0ekV5cFpHcGhWVEhnNVVoNUI0NmVxSlc4Tk96cXVQaGJCcThiZFhtUjdCYzAyUTVfSmxwbW1EN2JUaGR4YXZhYk5mUWoySDU1NUVEOVB1ZlB3R2puam05enNTbHc?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-02T08:42:08Z",
-   "leagues": [
-    "lec"
    ]
   }
  ]
