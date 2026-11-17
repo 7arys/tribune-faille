@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T00:59:18Z",
+ "generated": "2026-11-17T08:57:25Z",
  "items": [
   {
    "t": "Mercato LoL LEC : Team Vitality devrait recruter le jeune midlaner coréen Guti",
@@ -107,15 +107,6 @@
    "d": "2026-11-15T13:03:58Z",
    "leagues": [
     "lec"
-   ]
-  },
-  {
-   "t": "Tactician’s Crown : les Worlds TFT en direct",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmM1a2x6ME9hT0E1NXFyY0phdmtVX2NPNmRuOGVuRE1TTEVzb0w2eFBEeVFwT295bUZ0bU1GSEUxTnYxbnZUbm5PdnF2UnNzSkJRNjRCbjh2d3g1WXV0WmJZeFRLX1oweG4wVUJpOUZMTGRxX29HTlFLVmo3MFdLSmlXSQ?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-11-15T11:45:00Z",
-   "leagues": [
-    "worlds"
    ]
   },
   {
@@ -371,6 +362,15 @@
    "d": "2026-11-14T07:57:03Z",
    "leagues": [
     "lec"
+   ]
+  },
+  {
+   "t": "Riot Games scinde l'organisation des Worlds 2027 entre le Japon et la Corée du Sud",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2RkeTZPNkN1OWxxUlJJWlZKcUdsdUpFdTVLbzZRQnA3S2dLR09IVHJMMzR0STRkejBkX2Y4bGZNWDQwTVFRR3NfN2pHSVBuMElGdENydWlYQmRNQ3RiWmFVMUJMcXduaU5OR0JfMW9uR1pHaGE5Wk5DZWNvbm1SZVdYSUNnVEx1MUpnZVpDaE54cThQbGg0TVNfVTRDZ1pEZjl2eENCY2p6enhWQjYzRDVvUG1reFJfMUVDWDI5bC1QV1Fm?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-14T07:36:51Z",
+   "leagues": [
+    "worlds"
    ]
   }
  ]
