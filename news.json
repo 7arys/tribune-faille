@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T00:08:41Z",
+ "generated": "2026-11-19T07:47:42Z",
  "items": [
   {
    "t": "Mercato LoL LEC : Sheo s'engagerait avec Team Vitality",
@@ -237,15 +237,6 @@
    ]
   },
   {
-   "t": "Mercato LoL LCS : Yeon et CoreJJ quitteraient Team Liquid pour Cloud9 pour la saison 2027",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWpJSEJlcEEwWnc2eXBnNTNjRnp5a2lxWDFIdnJyVjR1akVrb3dnZERscDJvcjZoX0x6N1JnVHJWTHNXOFRpeWZmUUJRaHBmMHV1Y2VQaHhfYWlMVzhEdFc1SXgwXzFKLWpPRkMzRWkzQVk1QXQxbFQxXzRSN1haVVkwV1dsUTY4QXNzNktBeTlkS3BndnE1ZW92c0Nzb3hBRXJpNVZaZzIyT2o2U3lpWkRUZDloa2d1ZXNmRmZTNDdxUUtLQTlRMDYxblc?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-16T12:01:00Z",
-   "leagues": [
-    "lcs"
-   ]
-  },
-  {
    "t": "Esport - League of Legends : BLG remporte les Worlds : Sports - Orange",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1JveDNZU1h1S01CSmVDaFNzc3VCcTU0WmhnVzhneDA4X3gyczVkYVUyWXcybzhxdTZxSDlMWmlDWTUyMEZpV3BCNXlLdFNFTTJrSVBLeWZ1QUN4Y3NhUUdTS2FxMFlsTndsQTN3aXMyZ1M4V0dxRmg1eV9DRFFwYi1Pd3R6SmlfWGFIMVNITE1CMmRhaDB3c2NsdFNoN3dzcEVhWU85el9jYzItQkZ0MHFzQW5sOGQ1SFZILXNwUkV4eVBFc3fSAcYBQVVfeXFMTTNSb3gzWVNYdUtNQkplQ2hTc3N1QnE1NFpoZ1c4Z3gwOF94MnM1ZGFVMll3Mm84cXU2cUg5TFppQ1k1MjBGaVdwQjV5S3RTRU0ya0lQS3lmdUFDeGNzYVFHU0thcTBZbE53bEEzd2lzMmdTOFdHcUZoNXlfQ0RRcGItT3d0ekppX1hhSDFTSExNQjJkYWgwd3NjbHRTaDd3c3BFYVlPOXpfY2MyLUJGdDBxc0FubDhkNUhWSC1zcFJFeHlQRXN3?oc=5",
    "src": "Sports - Orange",
@@ -363,6 +354,16 @@
    "d": "2026-11-15T08:29:00Z",
    "leagues": [
     "worlds"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : BLG bat Gen.G et devient champion du monde",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XTUVla3dIR3RybVJ0UWVFX1FXWHZNeExGdkJGdVR4cTlJNmVqOE9uSVZCOU5PVnpwemNnVldjazZLd3U5VVdMZTEwVnJYak95c2luVjRyVnBVbEIwUUc2bDNuYno1N3FyaXRNV1l3?oc=5",
+   "src": "SpiritGamer",
+   "d": "2026-11-15T06:41:27Z",
+   "leagues": [
+    "worlds",
+    "lck"
    ]
   }
  ]
